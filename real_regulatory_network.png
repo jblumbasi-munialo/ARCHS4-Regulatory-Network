@@ -1,0 +1,2179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="correlation" attr.type="double"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="CD151">
+  <data key="d0">Target</data>
+</node>
+<node id="CD164">
+  <data key="d0">Target</data>
+</node>
+<node id="APOE">
+  <data key="d0">Target</data>
+</node>
+<node id="CD63">
+  <data key="d0">Target</data>
+</node>
+<node id="APLP2">
+  <data key="d0">Target</data>
+</node>
+<node id="AOC3">
+  <data key="d0">Target</data>
+</node>
+<node id="ACLY">
+  <data key="d0">Target</data>
+</node>
+<node id="BTN3A2">
+  <data key="d0">Regulator</data>
+</node>
+<node id="BSG">
+  <data key="d0">Target</data>
+</node>
+<node id="AHNAK2">
+  <data key="d0">Target</data>
+</node>
+<node id="ATP1A1">
+  <data key="d0">Target</data>
+</node>
+<node id="BTBD9">
+  <data key="d0">Regulator</data>
+</node>
+<node id="CAPNS1">
+  <data key="d0">Target</data>
+</node>
+<node id="AKR1C3">
+  <data key="d0">Target</data>
+</node>
+<node id="ASPH">
+  <data key="d0">Target</data>
+</node>
+<node id="ANXA5">
+  <data key="d0">Target</data>
+</node>
+<node id="CALM1">
+  <data key="d0">Target</data>
+</node>
+<node id="CASC5">
+  <data key="d0">Target</data>
+</node>
+<node id="ALDH1A1">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ACTN4">
+  <data key="d0">Target</data>
+</node>
+<node id="ATP5E">
+  <data key="d0">Target</data>
+</node>
+<node id="ANXA2">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ANK3">
+  <data key="d0">Target</data>
+</node>
+<node id="C6ORF48">
+  <data key="d0">Target</data>
+</node>
+<node id="ALDOC">
+  <data key="d0">Target</data>
+</node>
+<node id="CD44">
+  <data key="d0">Target</data>
+</node>
+<node id="APP">
+  <data key="d0">Target</data>
+</node>
+<node id="ATP5B">
+  <data key="d0">Target</data>
+</node>
+<node id="ALDH2">
+  <data key="d0">Target</data>
+</node>
+<node id="C3">
+  <data key="d0">Target</data>
+</node>
+<node id="ATP5G3">
+  <data key="d0">Target</data>
+</node>
+<node id="AKR1C1">
+  <data key="d0">Target</data>
+</node>
+<node id="ADIRF">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ANKRD30BL">
+  <data key="d0">Target</data>
+</node>
+<node id="AKR1B1">
+  <data key="d0">Target</data>
+</node>
+<node id="BROX">
+  <data key="d0">Regulator</data>
+</node>
+<node id="CAT">
+  <data key="d0">Target</data>
+</node>
+<node id="CALR">
+  <data key="d0">Target</data>
+</node>
+<node id="ADIPOQ">
+  <data key="d0">Regulator</data>
+</node>
+<node id="BTF3">
+  <data key="d0">Target</data>
+</node>
+<node id="ARF1">
+  <data key="d0">Target</data>
+</node>
+<node id="ANXA6">
+  <data key="d0">Target</data>
+</node>
+<node id="ACTG1">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ACTB">
+  <data key="d0">Regulator</data>
+</node>
+<node id="AKR1C2">
+  <data key="d0">Regulator</data>
+</node>
+<node id="AKR1B10">
+  <data key="d0">Target</data>
+</node>
+<node id="CALM2">
+  <data key="d0">Target</data>
+</node>
+<node id="ATP2A2">
+  <data key="d0">Target</data>
+</node>
+<node id="AXL">
+  <data key="d0">Target</data>
+</node>
+<node id="CD74">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ALDH1A3">
+  <data key="d0">Target</data>
+</node>
+<node id="ACSL1">
+  <data key="d0">Regulator</data>
+</node>
+<node id="CANX">
+  <data key="d0">Target</data>
+</node>
+<node id="AGPAT2">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ATP5A1">
+  <data key="d0">Target</data>
+</node>
+<node id="B2M">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ACADVL">
+  <data key="d0">Target</data>
+</node>
+<node id="ATF4">
+  <data key="d0">Target</data>
+</node>
+<node id="CD36">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ADH1B">
+  <data key="d0">Regulator</data>
+</node>
+<node id="AP000769.1">
+  <data key="d0">Target</data>
+</node>
+<node id="AC010970.2">
+  <data key="d0">Regulator</data>
+</node>
+<node id="CD47">
+  <data key="d0">Regulator</data>
+</node>
+<node id="CAV1">
+  <data key="d0">Target</data>
+</node>
+<node id="APOD">
+  <data key="d0">Target</data>
+</node>
+<node id="ALDOA">
+  <data key="d0">Regulator</data>
+</node>
+<node id="CD81">
+  <data key="d0">Target</data>
+</node>
+<node id="CADM1">
+  <data key="d0">Target</data>
+</node>
+<node id="AHNAK">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ANXA1">
+  <data key="d0">Target</data>
+</node>
+<edge source="BTN3A2" target="C6ORF48">
+  <data key="d1">0.4716148981826157</data>
+  <data key="d2">0.4716148981826157</data>
+</edge>
+<edge source="BTN3A2" target="AXL">
+  <data key="d1">0.5464166212165175</data>
+  <data key="d2">0.5464166212165175</data>
+</edge>
+<edge source="BTN3A2" target="CADM1">
+  <data key="d1">0.9615127610940426</data>
+  <data key="d2">0.9615127610940426</data>
+</edge>
+<edge source="ALDH1A1" target="ATP5B">
+  <data key="d1">0.5453643721987395</data>
+  <data key="d2">0.5453643721987395</data>
+</edge>
+<edge source="ALDH1A1" target="ACTN4">
+  <data key="d1">0.895497325212464</data>
+  <data key="d2">0.895497325212464</data>
+</edge>
+<edge source="ALDH1A1" target="ASPH">
+  <data key="d1">0.3257433056078722</data>
+  <data key="d2">0.3257433056078722</data>
+</edge>
+<edge source="ALDH1A1" target="ANXA1">
+  <data key="d1">0.41029875715948205</data>
+  <data key="d2">0.41029875715948205</data>
+</edge>
+<edge source="ALDH1A1" target="CD151">
+  <data key="d1">0.48995198868247813</data>
+  <data key="d2">0.48995198868247813</data>
+</edge>
+<edge source="ALDH1A1" target="AKR1C3">
+  <data key="d1">0.8666033525321738</data>
+  <data key="d2">0.8666033525321738</data>
+</edge>
+<edge source="ALDH1A1" target="AKR1B10">
+  <data key="d1">0.9969950263287854</data>
+  <data key="d2">0.9969950263287854</data>
+</edge>
+<edge source="ALDH1A1" target="ATP5A1">
+  <data key="d1">0.3218210145707255</data>
+  <data key="d2">0.3218210145707255</data>
+</edge>
+<edge source="ALDH1A1" target="AKR1B1">
+  <data key="d1">0.9894662111027271</data>
+  <data key="d2">0.9894662111027271</data>
+</edge>
+<edge source="ALDH1A1" target="ACLY">
+  <data key="d1">0.70189322001458</data>
+  <data key="d2">0.70189322001458</data>
+</edge>
+<edge source="ALDH1A1" target="CALM2">
+  <data key="d1">0.3262391134136998</data>
+  <data key="d2">0.3262391134136998</data>
+</edge>
+<edge source="ALDH1A1" target="BSG">
+  <data key="d1">0.4316308472161</data>
+  <data key="d2">0.4316308472161</data>
+</edge>
+<edge source="ALDH1A1" target="APP">
+  <data key="d1">0.43160630204130623</data>
+  <data key="d2">0.43160630204130623</data>
+</edge>
+<edge source="ALDH1A1" target="ATF4">
+  <data key="d1">0.682142737527155</data>
+  <data key="d2">0.682142737527155</data>
+</edge>
+<edge source="ALDH1A1" target="CAPNS1">
+  <data key="d1">0.8126377892630452</data>
+  <data key="d2">0.8126377892630452</data>
+</edge>
+<edge source="ALDH1A1" target="ATP2A2">
+  <data key="d1">0.8179529852818908</data>
+  <data key="d2">0.8179529852818908</data>
+</edge>
+<edge source="ALDH1A1" target="ARF1">
+  <data key="d1">0.6749274095579901</data>
+  <data key="d2">0.6749274095579901</data>
+</edge>
+<edge source="ANXA2" target="ATP5B">
+  <data key="d1">0.9012260190462832</data>
+  <data key="d2">0.9012260190462832</data>
+</edge>
+<edge source="ANXA2" target="APOE">
+  <data key="d1">0.6643618070438034</data>
+  <data key="d2">0.6643618070438034</data>
+</edge>
+<edge source="ANXA2" target="AKR1C1">
+  <data key="d1">0.7633031304689221</data>
+  <data key="d2">0.7633031304689221</data>
+</edge>
+<edge source="ANXA2" target="ALDH2">
+  <data key="d1">0.7264969482556257</data>
+  <data key="d2">0.7264969482556257</data>
+</edge>
+<edge source="ANXA2" target="ACTN4">
+  <data key="d1">0.7118264106835251</data>
+  <data key="d2">0.7118264106835251</data>
+</edge>
+<edge source="ANXA2" target="CD63">
+  <data key="d1">0.7812136856445606</data>
+  <data key="d2">0.7812136856445606</data>
+</edge>
+<edge source="ANXA2" target="ASPH">
+  <data key="d1">0.8930093097056948</data>
+  <data key="d2">0.8930093097056948</data>
+</edge>
+<edge source="ANXA2" target="CD81">
+  <data key="d1">0.7874555014590077</data>
+  <data key="d2">0.7874555014590077</data>
+</edge>
+<edge source="ANXA2" target="ANXA1">
+  <data key="d1">0.8787043551654742</data>
+  <data key="d2">0.8787043551654742</data>
+</edge>
+<edge source="ANXA2" target="CAV1">
+  <data key="d1">0.8540187441073218</data>
+  <data key="d2">0.8540187441073218</data>
+</edge>
+<edge source="ANXA2" target="CALR">
+  <data key="d1">0.564415350774758</data>
+  <data key="d2">0.564415350774758</data>
+</edge>
+<edge source="ANXA2" target="CD151">
+  <data key="d1">0.9301061759766347</data>
+  <data key="d2">0.9301061759766347</data>
+</edge>
+<edge source="ANXA2" target="ANXA5">
+  <data key="d1">0.7808936152367278</data>
+  <data key="d2">0.7808936152367278</data>
+</edge>
+<edge source="ANXA2" target="AKR1C3">
+  <data key="d1">0.9056348789503532</data>
+  <data key="d2">0.9056348789503532</data>
+</edge>
+<edge source="ANXA2" target="CANX">
+  <data key="d1">0.3932225289438915</data>
+  <data key="d2">0.3932225289438915</data>
+</edge>
+<edge source="ANXA2" target="AKR1B10">
+  <data key="d1">0.6228241948184755</data>
+  <data key="d2">0.6228241948184755</data>
+</edge>
+<edge source="ANXA2" target="ANXA6">
+  <data key="d1">0.6388658193478116</data>
+  <data key="d2">0.6388658193478116</data>
+</edge>
+<edge source="ANXA2" target="ATP5E">
+  <data key="d1">0.7156261325535362</data>
+  <data key="d2">0.7156261325535362</data>
+</edge>
+<edge source="ANXA2" target="ATP5A1">
+  <data key="d1">0.7718159500505287</data>
+  <data key="d2">0.7718159500505287</data>
+</edge>
+<edge source="ANXA2" target="AKR1B1">
+  <data key="d1">0.6672791893611153</data>
+  <data key="d2">0.6672791893611153</data>
+</edge>
+<edge source="ANXA2" target="AOC3">
+  <data key="d1">0.6543062257361771</data>
+  <data key="d2">0.6543062257361771</data>
+</edge>
+<edge source="ANXA2" target="C3">
+  <data key="d1">0.667078851808209</data>
+  <data key="d2">0.667078851808209</data>
+</edge>
+<edge source="ANXA2" target="CALM1">
+  <data key="d1">0.7806307080821262</data>
+  <data key="d2">0.7806307080821262</data>
+</edge>
+<edge source="ANXA2" target="ACLY">
+  <data key="d1">0.8188909015835498</data>
+  <data key="d2">0.8188909015835498</data>
+</edge>
+<edge source="ANXA2" target="APOD">
+  <data key="d1">0.6710303033538645</data>
+  <data key="d2">0.6710303033538645</data>
+</edge>
+<edge source="ANXA2" target="CALM2">
+  <data key="d1">0.8298704851939074</data>
+  <data key="d2">0.8298704851939074</data>
+</edge>
+<edge source="ANXA2" target="CD44">
+  <data key="d1">0.3055575713176246</data>
+  <data key="d2">0.3055575713176246</data>
+</edge>
+<edge source="ANXA2" target="BSG">
+  <data key="d1">0.8329279475916092</data>
+  <data key="d2">0.8329279475916092</data>
+</edge>
+<edge source="ANXA2" target="ACADVL">
+  <data key="d1">0.8309835446085534</data>
+  <data key="d2">0.8309835446085534</data>
+</edge>
+<edge source="ANXA2" target="APLP2">
+  <data key="d1">0.5765706498418285</data>
+  <data key="d2">0.5765706498418285</data>
+</edge>
+<edge source="ANXA2" target="ATP5G3">
+  <data key="d1">0.8167871995220127</data>
+  <data key="d2">0.8167871995220127</data>
+</edge>
+<edge source="ANXA2" target="APP">
+  <data key="d1">0.6209715536528231</data>
+  <data key="d2">0.6209715536528231</data>
+</edge>
+<edge source="ANXA2" target="ATF4">
+  <data key="d1">0.8247079905679818</data>
+  <data key="d2">0.8247079905679818</data>
+</edge>
+<edge source="ANXA2" target="CD164">
+  <data key="d1">0.7163866539994016</data>
+  <data key="d2">0.7163866539994016</data>
+</edge>
+<edge source="ANXA2" target="CAT">
+  <data key="d1">0.7016536976956123</data>
+  <data key="d2">0.7016536976956123</data>
+</edge>
+<edge source="ANXA2" target="CAPNS1">
+  <data key="d1">0.8644880144081972</data>
+  <data key="d2">0.8644880144081972</data>
+</edge>
+<edge source="ANXA2" target="BTF3">
+  <data key="d1">0.6250844129143701</data>
+  <data key="d2">0.6250844129143701</data>
+</edge>
+<edge source="ANXA2" target="ATP2A2">
+  <data key="d1">0.6988403972869492</data>
+  <data key="d2">0.6988403972869492</data>
+</edge>
+<edge source="ANXA2" target="ALDOC">
+  <data key="d1">0.6712345412839742</data>
+  <data key="d2">0.6712345412839742</data>
+</edge>
+<edge source="ANXA2" target="ARF1">
+  <data key="d1">0.7735492247140701</data>
+  <data key="d2">0.7735492247140701</data>
+</edge>
+<edge source="ADIRF" target="ATP5B">
+  <data key="d1">0.7328176567194365</data>
+  <data key="d2">0.7328176567194365</data>
+</edge>
+<edge source="ADIRF" target="APOE">
+  <data key="d1">0.9677730840554227</data>
+  <data key="d2">0.9677730840554227</data>
+</edge>
+<edge source="ADIRF" target="AKR1C1">
+  <data key="d1">0.980289460757732</data>
+  <data key="d2">0.980289460757732</data>
+</edge>
+<edge source="ADIRF" target="ALDH2">
+  <data key="d1">0.94718314566378</data>
+  <data key="d2">0.94718314566378</data>
+</edge>
+<edge source="ADIRF" target="CD63">
+  <data key="d1">0.9298383027227269</data>
+  <data key="d2">0.9298383027227269</data>
+</edge>
+<edge source="ADIRF" target="ASPH">
+  <data key="d1">0.8537873618006195</data>
+  <data key="d2">0.8537873618006195</data>
+</edge>
+<edge source="ADIRF" target="CD81">
+  <data key="d1">0.958407434248529</data>
+  <data key="d2">0.958407434248529</data>
+</edge>
+<edge source="ADIRF" target="ANXA1">
+  <data key="d1">0.8223359777397895</data>
+  <data key="d2">0.8223359777397895</data>
+</edge>
+<edge source="ADIRF" target="CAV1">
+  <data key="d1">0.8596296470825782</data>
+  <data key="d2">0.8596296470825782</data>
+</edge>
+<edge source="ADIRF" target="CALR">
+  <data key="d1">0.3014181753443927</data>
+  <data key="d2">0.3014181753443927</data>
+</edge>
+<edge source="ADIRF" target="CD151">
+  <data key="d1">0.8217507668245487</data>
+  <data key="d2">0.8217507668245487</data>
+</edge>
+<edge source="ADIRF" target="ANXA5">
+  <data key="d1">0.9261634825501326</data>
+  <data key="d2">0.9261634825501326</data>
+</edge>
+<edge source="ADIRF" target="AKR1C3">
+  <data key="d1">0.5288055429056191</data>
+  <data key="d2">0.5288055429056191</data>
+</edge>
+<edge source="ADIRF" target="ANXA6">
+  <data key="d1">0.7699691610052886</data>
+  <data key="d2">0.7699691610052886</data>
+</edge>
+<edge source="ADIRF" target="ATP5E">
+  <data key="d1">0.9684336792164575</data>
+  <data key="d2">0.9684336792164575</data>
+</edge>
+<edge source="ADIRF" target="ATP5A1">
+  <data key="d1">0.7303984334977666</data>
+  <data key="d2">0.7303984334977666</data>
+</edge>
+<edge source="ADIRF" target="AOC3">
+  <data key="d1">0.8385478543639837</data>
+  <data key="d2">0.8385478543639837</data>
+</edge>
+<edge source="ADIRF" target="C3">
+  <data key="d1">0.9651193541532471</data>
+  <data key="d2">0.9651193541532471</data>
+</edge>
+<edge source="ADIRF" target="CALM1">
+  <data key="d1">0.8555182264736233</data>
+  <data key="d2">0.8555182264736233</data>
+</edge>
+<edge source="ADIRF" target="ACLY">
+  <data key="d1">0.40298517194338024</data>
+  <data key="d2">0.40298517194338024</data>
+</edge>
+<edge source="ADIRF" target="APOD">
+  <data key="d1">0.9948831257307397</data>
+  <data key="d2">0.9948831257307397</data>
+</edge>
+<edge source="ADIRF" target="CALM2">
+  <data key="d1">0.8253469819189958</data>
+  <data key="d2">0.8253469819189958</data>
+</edge>
+<edge source="ADIRF" target="BSG">
+  <data key="d1">0.6382761149218178</data>
+  <data key="d2">0.6382761149218178</data>
+</edge>
+<edge source="ADIRF" target="ACADVL">
+  <data key="d1">0.873425971514774</data>
+  <data key="d2">0.873425971514774</data>
+</edge>
+<edge source="ADIRF" target="APLP2">
+  <data key="d1">0.3708502135591707</data>
+  <data key="d2">0.3708502135591707</data>
+</edge>
+<edge source="ADIRF" target="ATP5G3">
+  <data key="d1">0.938403251165101</data>
+  <data key="d2">0.938403251165101</data>
+</edge>
+<edge source="ADIRF" target="ATF4">
+  <data key="d1">0.47963108423464895</data>
+  <data key="d2">0.47963108423464895</data>
+</edge>
+<edge source="ADIRF" target="CD164">
+  <data key="d1">0.8582177920086724</data>
+  <data key="d2">0.8582177920086724</data>
+</edge>
+<edge source="ADIRF" target="CAT">
+  <data key="d1">0.911024806072296</data>
+  <data key="d2">0.911024806072296</data>
+</edge>
+<edge source="ADIRF" target="CAPNS1">
+  <data key="d1">0.3906669947824639</data>
+  <data key="d2">0.3906669947824639</data>
+</edge>
+<edge source="ADIRF" target="BTF3">
+  <data key="d1">0.671113365074743</data>
+  <data key="d2">0.671113365074743</data>
+</edge>
+<edge source="ADIRF" target="ALDOC">
+  <data key="d1">0.941972846738195</data>
+  <data key="d2">0.941972846738195</data>
+</edge>
+<edge source="ADIRF" target="ARF1">
+  <data key="d1">0.32408930320982027</data>
+  <data key="d2">0.32408930320982027</data>
+</edge>
+<edge source="BROX" target="C6ORF48">
+  <data key="d1">0.4613109001180301</data>
+  <data key="d2">0.4613109001180301</data>
+</edge>
+<edge source="BROX" target="AXL">
+  <data key="d1">0.532197439911289</data>
+  <data key="d2">0.532197439911289</data>
+</edge>
+<edge source="BROX" target="CADM1">
+  <data key="d1">0.9371332534801023</data>
+  <data key="d2">0.9371332534801023</data>
+</edge>
+<edge source="ADIPOQ" target="ATP5B">
+  <data key="d1">0.7307538234362588</data>
+  <data key="d2">0.7307538234362588</data>
+</edge>
+<edge source="ADIPOQ" target="APOE">
+  <data key="d1">0.9642378939590032</data>
+  <data key="d2">0.9642378939590032</data>
+</edge>
+<edge source="ADIPOQ" target="AKR1C1">
+  <data key="d1">0.9822266958856758</data>
+  <data key="d2">0.9822266958856758</data>
+</edge>
+<edge source="ADIPOQ" target="ALDH2">
+  <data key="d1">0.9964939981381674</data>
+  <data key="d2">0.9964939981381674</data>
+</edge>
+<edge source="ADIPOQ" target="CD63">
+  <data key="d1">0.9018607845682678</data>
+  <data key="d2">0.9018607845682678</data>
+</edge>
+<edge source="ADIPOQ" target="ASPH">
+  <data key="d1">0.9085984856455644</data>
+  <data key="d2">0.9085984856455644</data>
+</edge>
+<edge source="ADIPOQ" target="CD81">
+  <data key="d1">0.9775483893286829</data>
+  <data key="d2">0.9775483893286829</data>
+</edge>
+<edge source="ADIPOQ" target="ANXA1">
+  <data key="d1">0.8200781482397702</data>
+  <data key="d2">0.8200781482397702</data>
+</edge>
+<edge source="ADIPOQ" target="CAV1">
+  <data key="d1">0.9119569642511202</data>
+  <data key="d2">0.9119569642511202</data>
+</edge>
+<edge source="ADIPOQ" target="CALR">
+  <data key="d1">0.30926287714801554</data>
+  <data key="d2">0.30926287714801554</data>
+</edge>
+<edge source="ADIPOQ" target="CD151">
+  <data key="d1">0.8759827366386931</data>
+  <data key="d2">0.8759827366386931</data>
+</edge>
+<edge source="ADIPOQ" target="ANXA5">
+  <data key="d1">0.9510114827675238</data>
+  <data key="d2">0.9510114827675238</data>
+</edge>
+<edge source="ADIPOQ" target="AKR1C3">
+  <data key="d1">0.5253895607447301</data>
+  <data key="d2">0.5253895607447301</data>
+</edge>
+<edge source="ADIPOQ" target="ANXA6">
+  <data key="d1">0.8246497576508474</data>
+  <data key="d2">0.8246497576508474</data>
+</edge>
+<edge source="ADIPOQ" target="ATP5E">
+  <data key="d1">0.9188277937941726</data>
+  <data key="d2">0.9188277937941726</data>
+</edge>
+<edge source="ADIPOQ" target="ATP5A1">
+  <data key="d1">0.7296291724356625</data>
+  <data key="d2">0.7296291724356625</data>
+</edge>
+<edge source="ADIPOQ" target="AOC3">
+  <data key="d1">0.9562977070632148</data>
+  <data key="d2">0.9562977070632148</data>
+</edge>
+<edge source="ADIPOQ" target="C3">
+  <data key="d1">0.9368442461686347</data>
+  <data key="d2">0.9368442461686347</data>
+</edge>
+<edge source="ADIPOQ" target="CALM1">
+  <data key="d1">0.8995042057690011</data>
+  <data key="d2">0.8995042057690011</data>
+</edge>
+<edge source="ADIPOQ" target="ACLY">
+  <data key="d1">0.39523388335194326</data>
+  <data key="d2">0.39523388335194326</data>
+</edge>
+<edge source="ADIPOQ" target="APOD">
+  <data key="d1">0.9667546008733438</data>
+  <data key="d2">0.9667546008733438</data>
+</edge>
+<edge source="ADIPOQ" target="CALM2">
+  <data key="d1">0.8058894111157565</data>
+  <data key="d2">0.8058894111157565</data>
+</edge>
+<edge source="ADIPOQ" target="BSG">
+  <data key="d1">0.6890322090018074</data>
+  <data key="d2">0.6890322090018074</data>
+</edge>
+<edge source="ADIPOQ" target="ACADVL">
+  <data key="d1">0.9326785528722856</data>
+  <data key="d2">0.9326785528722856</data>
+</edge>
+<edge source="ADIPOQ" target="APLP2">
+  <data key="d1">0.38565582128141895</data>
+  <data key="d2">0.38565582128141895</data>
+</edge>
+<edge source="ADIPOQ" target="ATP5G3">
+  <data key="d1">0.906533037233453</data>
+  <data key="d2">0.906533037233453</data>
+</edge>
+<edge source="ADIPOQ" target="ATF4">
+  <data key="d1">0.4949534691810932</data>
+  <data key="d2">0.4949534691810932</data>
+</edge>
+<edge source="ADIPOQ" target="CD164">
+  <data key="d1">0.8943728277718505</data>
+  <data key="d2">0.8943728277718505</data>
+</edge>
+<edge source="ADIPOQ" target="CAT">
+  <data key="d1">0.9546575098424058</data>
+  <data key="d2">0.9546575098424058</data>
+</edge>
+<edge source="ADIPOQ" target="CAPNS1">
+  <data key="d1">0.4228294533343648</data>
+  <data key="d2">0.4228294533343648</data>
+</edge>
+<edge source="ADIPOQ" target="BTF3">
+  <data key="d1">0.644645995738765</data>
+  <data key="d2">0.644645995738765</data>
+</edge>
+<edge source="ADIPOQ" target="ALDOC">
+  <data key="d1">0.9841072597756466</data>
+  <data key="d2">0.9841072597756466</data>
+</edge>
+<edge source="ADIPOQ" target="ARF1">
+  <data key="d1">0.34158452449709503</data>
+  <data key="d2">0.34158452449709503</data>
+</edge>
+<edge source="ACTG1" target="ATP5B">
+  <data key="d1">0.6577012918891516</data>
+  <data key="d2">0.6577012918891516</data>
+</edge>
+<edge source="ACTG1" target="ACTN4">
+  <data key="d1">0.8597282293014603</data>
+  <data key="d2">0.8597282293014603</data>
+</edge>
+<edge source="ACTG1" target="ASPH">
+  <data key="d1">0.3699783608522761</data>
+  <data key="d2">0.3699783608522761</data>
+</edge>
+<edge source="ACTG1" target="ANXA1">
+  <data key="d1">0.46740160851485185</data>
+  <data key="d2">0.46740160851485185</data>
+</edge>
+<edge source="ACTG1" target="CAV1">
+  <data key="d1">0.3340581625070854</data>
+  <data key="d2">0.3340581625070854</data>
+</edge>
+<edge source="ACTG1" target="CALR">
+  <data key="d1">0.6487296429873328</data>
+  <data key="d2">0.6487296429873328</data>
+</edge>
+<edge source="ACTG1" target="CD151">
+  <data key="d1">0.4773267011795497</data>
+  <data key="d2">0.4773267011795497</data>
+</edge>
+<edge source="ACTG1" target="AKR1C3">
+  <data key="d1">0.6985386009861069</data>
+  <data key="d2">0.6985386009861069</data>
+</edge>
+<edge source="ACTG1" target="CANX">
+  <data key="d1">0.5028392988340795</data>
+  <data key="d2">0.5028392988340795</data>
+</edge>
+<edge source="ACTG1" target="AKR1B10">
+  <data key="d1">0.7588868905580973</data>
+  <data key="d2">0.7588868905580973</data>
+</edge>
+<edge source="ACTG1" target="ANXA6">
+  <data key="d1">0.30150302006269036</data>
+  <data key="d2">0.30150302006269036</data>
+</edge>
+<edge source="ACTG1" target="ATP5A1">
+  <data key="d1">0.5518700482075927</data>
+  <data key="d2">0.5518700482075927</data>
+</edge>
+<edge source="ACTG1" target="AKR1B1">
+  <data key="d1">0.8100639226469695</data>
+  <data key="d2">0.8100639226469695</data>
+</edge>
+<edge source="ACTG1" target="CALM1">
+  <data key="d1">0.32781282686122054</data>
+  <data key="d2">0.32781282686122054</data>
+</edge>
+<edge source="ACTG1" target="ACLY">
+  <data key="d1">0.7963394511524179</data>
+  <data key="d2">0.7963394511524179</data>
+</edge>
+<edge source="ACTG1" target="CALM2">
+  <data key="d1">0.4657770923734375</data>
+  <data key="d2">0.4657770923734375</data>
+</edge>
+<edge source="ACTG1" target="CD44">
+  <data key="d1">0.4371884682671377</data>
+  <data key="d2">0.4371884682671377</data>
+</edge>
+<edge source="ACTG1" target="BSG">
+  <data key="d1">0.6827618108585211</data>
+  <data key="d2">0.6827618108585211</data>
+</edge>
+<edge source="ACTG1" target="ACADVL">
+  <data key="d1">0.38376869794818663</data>
+  <data key="d2">0.38376869794818663</data>
+</edge>
+<edge source="ACTG1" target="APLP2">
+  <data key="d1">0.46610085362076153</data>
+  <data key="d2">0.46610085362076153</data>
+</edge>
+<edge source="ACTG1" target="ATP5G3">
+  <data key="d1">0.3737456391473776</data>
+  <data key="d2">0.3737456391473776</data>
+</edge>
+<edge source="ACTG1" target="APP">
+  <data key="d1">0.5644257119576265</data>
+  <data key="d2">0.5644257119576265</data>
+</edge>
+<edge source="ACTG1" target="ATF4">
+  <data key="d1">0.760588469779005</data>
+  <data key="d2">0.760588469779005</data>
+</edge>
+<edge source="ACTG1" target="ATP1A1">
+  <data key="d1">0.43921818591727285</data>
+  <data key="d2">0.43921818591727285</data>
+</edge>
+<edge source="ACTG1" target="CAPNS1">
+  <data key="d1">0.8735048221176696</data>
+  <data key="d2">0.8735048221176696</data>
+</edge>
+<edge source="ACTG1" target="BTF3">
+  <data key="d1">0.48150763996717505</data>
+  <data key="d2">0.48150763996717505</data>
+</edge>
+<edge source="ACTG1" target="ATP2A2">
+  <data key="d1">0.868753182146525</data>
+  <data key="d2">0.868753182146525</data>
+</edge>
+<edge source="ACTG1" target="ARF1">
+  <data key="d1">0.8006907444299141</data>
+  <data key="d2">0.8006907444299141</data>
+</edge>
+<edge source="ACTB" target="ATP5B">
+  <data key="d1">0.6803661820307536</data>
+  <data key="d2">0.6803661820307536</data>
+</edge>
+<edge source="ACTB" target="ACTN4">
+  <data key="d1">0.7069371202762224</data>
+  <data key="d2">0.7069371202762224</data>
+</edge>
+<edge source="ACTB" target="CD63">
+  <data key="d1">0.35203660724990116</data>
+  <data key="d2">0.35203660724990116</data>
+</edge>
+<edge source="ACTB" target="ASPH">
+  <data key="d1">0.3752185433774664</data>
+  <data key="d2">0.3752185433774664</data>
+</edge>
+<edge source="ACTB" target="CD81">
+  <data key="d1">0.32583581454354293</data>
+  <data key="d2">0.32583581454354293</data>
+</edge>
+<edge source="ACTB" target="ANXA1">
+  <data key="d1">0.45452490633137743</data>
+  <data key="d2">0.45452490633137743</data>
+</edge>
+<edge source="ACTB" target="CAV1">
+  <data key="d1">0.3517287427828318</data>
+  <data key="d2">0.3517287427828318</data>
+</edge>
+<edge source="ACTB" target="CALR">
+  <data key="d1">0.7480314051961081</data>
+  <data key="d2">0.7480314051961081</data>
+</edge>
+<edge source="ACTB" target="CD151">
+  <data key="d1">0.4523086106424676</data>
+  <data key="d2">0.4523086106424676</data>
+</edge>
+<edge source="ACTB" target="ANXA5">
+  <data key="d1">0.33439885379017104</data>
+  <data key="d2">0.33439885379017104</data>
+</edge>
+<edge source="ACTB" target="AKR1C3">
+  <data key="d1">0.5783753706666277</data>
+  <data key="d2">0.5783753706666277</data>
+</edge>
+<edge source="ACTB" target="CANX">
+  <data key="d1">0.6356675608642252</data>
+  <data key="d2">0.6356675608642252</data>
+</edge>
+<edge source="ACTB" target="AKR1B10">
+  <data key="d1">0.5611295588085127</data>
+  <data key="d2">0.5611295588085127</data>
+</edge>
+<edge source="ACTB" target="ANXA6">
+  <data key="d1">0.5356159594759938</data>
+  <data key="d2">0.5356159594759938</data>
+</edge>
+<edge source="ACTB" target="ATP5E">
+  <data key="d1">0.32504170888347134</data>
+  <data key="d2">0.32504170888347134</data>
+</edge>
+<edge source="ACTB" target="ATP5A1">
+  <data key="d1">0.6712824680865913</data>
+  <data key="d2">0.6712824680865913</data>
+</edge>
+<edge source="ACTB" target="AKR1B1">
+  <data key="d1">0.6294710681588214</data>
+  <data key="d2">0.6294710681588214</data>
+</edge>
+<edge source="ACTB" target="CALM1">
+  <data key="d1">0.3868603056629399</data>
+  <data key="d2">0.3868603056629399</data>
+</edge>
+<edge source="ACTB" target="ACLY">
+  <data key="d1">0.7683212339652925</data>
+  <data key="d2">0.7683212339652925</data>
+</edge>
+<edge source="ACTB" target="CALM2">
+  <data key="d1">0.5449459269341084</data>
+  <data key="d2">0.5449459269341084</data>
+</edge>
+<edge source="ACTB" target="CD44">
+  <data key="d1">0.6279043107943765</data>
+  <data key="d2">0.6279043107943765</data>
+</edge>
+<edge source="ACTB" target="BSG">
+  <data key="d1">0.6274724682395928</data>
+  <data key="d2">0.6274724682395928</data>
+</edge>
+<edge source="ACTB" target="ACADVL">
+  <data key="d1">0.4139267330393989</data>
+  <data key="d2">0.4139267330393989</data>
+</edge>
+<edge source="ACTB" target="APLP2">
+  <data key="d1">0.4048406729310541</data>
+  <data key="d2">0.4048406729310541</data>
+</edge>
+<edge source="ACTB" target="ATP5G3">
+  <data key="d1">0.45070613491365047</data>
+  <data key="d2">0.45070613491365047</data>
+</edge>
+<edge source="ACTB" target="APP">
+  <data key="d1">0.42685488231107066</data>
+  <data key="d2">0.42685488231107066</data>
+</edge>
+<edge source="ACTB" target="ATF4">
+  <data key="d1">0.7236925357233609</data>
+  <data key="d2">0.7236925357233609</data>
+</edge>
+<edge source="ACTB" target="ATP1A1">
+  <data key="d1">0.5901766602274596</data>
+  <data key="d2">0.5901766602274596</data>
+</edge>
+<edge source="ACTB" target="CD164">
+  <data key="d1">0.4430750470436182</data>
+  <data key="d2">0.4430750470436182</data>
+</edge>
+<edge source="ACTB" target="CAT">
+  <data key="d1">0.3015000409481303</data>
+  <data key="d2">0.3015000409481303</data>
+</edge>
+<edge source="ACTB" target="CAPNS1">
+  <data key="d1">0.8036317147252838</data>
+  <data key="d2">0.8036317147252838</data>
+</edge>
+<edge source="ACTB" target="BTF3">
+  <data key="d1">0.6660282933142874</data>
+  <data key="d2">0.6660282933142874</data>
+</edge>
+<edge source="ACTB" target="ATP2A2">
+  <data key="d1">0.7622948912547193</data>
+  <data key="d2">0.7622948912547193</data>
+</edge>
+<edge source="ACTB" target="ARF1">
+  <data key="d1">0.7597521815756825</data>
+  <data key="d2">0.7597521815756825</data>
+</edge>
+<edge source="AKR1C2" target="ATP5B">
+  <data key="d1">0.8979286852377962</data>
+  <data key="d2">0.8979286852377962</data>
+</edge>
+<edge source="AKR1C2" target="APOE">
+  <data key="d1">0.8284262832042</data>
+  <data key="d2">0.8284262832042</data>
+</edge>
+<edge source="AKR1C2" target="AKR1C1">
+  <data key="d1">0.9032135322510141</data>
+  <data key="d2">0.9032135322510141</data>
+</edge>
+<edge source="AKR1C2" target="ALDH2">
+  <data key="d1">0.8645887605387821</data>
+  <data key="d2">0.8645887605387821</data>
+</edge>
+<edge source="AKR1C2" target="ACTN4">
+  <data key="d1">0.534436649114165</data>
+  <data key="d2">0.534436649114165</data>
+</edge>
+<edge source="AKR1C2" target="CD63">
+  <data key="d1">0.8514171738898374</data>
+  <data key="d2">0.8514171738898374</data>
+</edge>
+<edge source="AKR1C2" target="ASPH">
+  <data key="d1">0.9139561262950552</data>
+  <data key="d2">0.9139561262950552</data>
+</edge>
+<edge source="AKR1C2" target="CD81">
+  <data key="d1">0.9010407494732285</data>
+  <data key="d2">0.9010407494732285</data>
+</edge>
+<edge source="AKR1C2" target="ANXA1">
+  <data key="d1">0.9029082411746303</data>
+  <data key="d2">0.9029082411746303</data>
+</edge>
+<edge source="AKR1C2" target="CAV1">
+  <data key="d1">0.8887021510921709</data>
+  <data key="d2">0.8887021510921709</data>
+</edge>
+<edge source="AKR1C2" target="CALR">
+  <data key="d1">0.3857554409940749</data>
+  <data key="d2">0.3857554409940749</data>
+</edge>
+<edge source="AKR1C2" target="CD151">
+  <data key="d1">0.9696556192805137</data>
+  <data key="d2">0.9696556192805137</data>
+</edge>
+<edge source="AKR1C2" target="ANXA5">
+  <data key="d1">0.8406520688368514</data>
+  <data key="d2">0.8406520688368514</data>
+</edge>
+<edge source="AKR1C2" target="AKR1C3">
+  <data key="d1">0.8982907246487374</data>
+  <data key="d2">0.8982907246487374</data>
+</edge>
+<edge source="AKR1C2" target="AKR1B10">
+  <data key="d1">0.5197376814211191</data>
+  <data key="d2">0.5197376814211191</data>
+</edge>
+<edge source="AKR1C2" target="ANXA6">
+  <data key="d1">0.6981539223854041</data>
+  <data key="d2">0.6981539223854041</data>
+</edge>
+<edge source="AKR1C2" target="ATP5E">
+  <data key="d1">0.8447539340974114</data>
+  <data key="d2">0.8447539340974114</data>
+</edge>
+<edge source="AKR1C2" target="ATP5A1">
+  <data key="d1">0.7802326755978983</data>
+  <data key="d2">0.7802326755978983</data>
+</edge>
+<edge source="AKR1C2" target="AKR1B1">
+  <data key="d1">0.5628307842946064</data>
+  <data key="d2">0.5628307842946064</data>
+</edge>
+<edge source="AKR1C2" target="AOC3">
+  <data key="d1">0.7748176263378366</data>
+  <data key="d2">0.7748176263378366</data>
+</edge>
+<edge source="AKR1C2" target="C3">
+  <data key="d1">0.8225118481155647</data>
+  <data key="d2">0.8225118481155647</data>
+</edge>
+<edge source="AKR1C2" target="CALM1">
+  <data key="d1">0.8355031224837689</data>
+  <data key="d2">0.8355031224837689</data>
+</edge>
+<edge source="AKR1C2" target="ACLY">
+  <data key="d1">0.7092489556827412</data>
+  <data key="d2">0.7092489556827412</data>
+</edge>
+<edge source="AKR1C2" target="APOD">
+  <data key="d1">0.8390893602986395</data>
+  <data key="d2">0.8390893602986395</data>
+</edge>
+<edge source="AKR1C2" target="CALM2">
+  <data key="d1">0.8501260330593379</data>
+  <data key="d2">0.8501260330593379</data>
+</edge>
+<edge source="AKR1C2" target="BSG">
+  <data key="d1">0.7887827582677195</data>
+  <data key="d2">0.7887827582677195</data>
+</edge>
+<edge source="AKR1C2" target="ACADVL">
+  <data key="d1">0.8876991945731286</data>
+  <data key="d2">0.8876991945731286</data>
+</edge>
+<edge source="AKR1C2" target="APLP2">
+  <data key="d1">0.4083287815315084</data>
+  <data key="d2">0.4083287815315084</data>
+</edge>
+<edge source="AKR1C2" target="ATP5G3">
+  <data key="d1">0.9241622191574583</data>
+  <data key="d2">0.9241622191574583</data>
+</edge>
+<edge source="AKR1C2" target="APP">
+  <data key="d1">0.3783870616094604</data>
+  <data key="d2">0.3783870616094604</data>
+</edge>
+<edge source="AKR1C2" target="ATF4">
+  <data key="d1">0.7670347580610388</data>
+  <data key="d2">0.7670347580610388</data>
+</edge>
+<edge source="AKR1C2" target="CD164">
+  <data key="d1">0.7831625494290219</data>
+  <data key="d2">0.7831625494290219</data>
+</edge>
+<edge source="AKR1C2" target="CAT">
+  <data key="d1">0.8240625887595123</data>
+  <data key="d2">0.8240625887595123</data>
+</edge>
+<edge source="AKR1C2" target="CAPNS1">
+  <data key="d1">0.7697898866489851</data>
+  <data key="d2">0.7697898866489851</data>
+</edge>
+<edge source="AKR1C2" target="BTF3">
+  <data key="d1">0.6540881059481035</data>
+  <data key="d2">0.6540881059481035</data>
+</edge>
+<edge source="AKR1C2" target="ATP2A2">
+  <data key="d1">0.5040862880757642</data>
+  <data key="d2">0.5040862880757642</data>
+</edge>
+<edge source="AKR1C2" target="ALDOC">
+  <data key="d1">0.8242834846788805</data>
+  <data key="d2">0.8242834846788805</data>
+</edge>
+<edge source="AKR1C2" target="ARF1">
+  <data key="d1">0.6348898191371344</data>
+  <data key="d2">0.6348898191371344</data>
+</edge>
+<edge source="CD74" target="ATP5B">
+  <data key="d1">0.43177407092284004</data>
+  <data key="d2">0.43177407092284004</data>
+</edge>
+<edge source="CD74" target="CD63">
+  <data key="d1">0.30307793070848416</data>
+  <data key="d2">0.30307793070848416</data>
+</edge>
+<edge source="CD74" target="CD81">
+  <data key="d1">0.30789484625571956</data>
+  <data key="d2">0.30789484625571956</data>
+</edge>
+<edge source="CD74" target="ANXA1">
+  <data key="d1">0.3100373289649214</data>
+  <data key="d2">0.3100373289649214</data>
+</edge>
+<edge source="CD74" target="CALR">
+  <data key="d1">0.5230552692506989</data>
+  <data key="d2">0.5230552692506989</data>
+</edge>
+<edge source="CD74" target="ANXA5">
+  <data key="d1">0.3122919457645039</data>
+  <data key="d2">0.3122919457645039</data>
+</edge>
+<edge source="CD74" target="CANX">
+  <data key="d1">0.48980925414457377</data>
+  <data key="d2">0.48980925414457377</data>
+</edge>
+<edge source="CD74" target="ANXA6">
+  <data key="d1">0.6377348977643904</data>
+  <data key="d2">0.6377348977643904</data>
+</edge>
+<edge source="CD74" target="ATP5E">
+  <data key="d1">0.3773989813385135</data>
+  <data key="d2">0.3773989813385135</data>
+</edge>
+<edge source="CD74" target="ATP5A1">
+  <data key="d1">0.5413685136021251</data>
+  <data key="d2">0.5413685136021251</data>
+</edge>
+<edge source="CD74" target="CALM1">
+  <data key="d1">0.31091692956517003</data>
+  <data key="d2">0.31091692956517003</data>
+</edge>
+<edge source="CD74" target="ACLY">
+  <data key="d1">0.3114161300199152</data>
+  <data key="d2">0.3114161300199152</data>
+</edge>
+<edge source="CD74" target="CALM2">
+  <data key="d1">0.4262474111365891</data>
+  <data key="d2">0.4262474111365891</data>
+</edge>
+<edge source="CD74" target="CD44">
+  <data key="d1">0.5854818754388982</data>
+  <data key="d2">0.5854818754388982</data>
+</edge>
+<edge source="CD74" target="BSG">
+  <data key="d1">0.31303130552186886</data>
+  <data key="d2">0.31303130552186886</data>
+</edge>
+<edge source="CD74" target="ACADVL">
+  <data key="d1">0.3410028207121755</data>
+  <data key="d2">0.3410028207121755</data>
+</edge>
+<edge source="CD74" target="ATP5G3">
+  <data key="d1">0.3874398060376794</data>
+  <data key="d2">0.3874398060376794</data>
+</edge>
+<edge source="CD74" target="ATF4">
+  <data key="d1">0.36645799425607756</data>
+  <data key="d2">0.36645799425607756</data>
+</edge>
+<edge source="CD74" target="ATP1A1">
+  <data key="d1">0.5156367902016775</data>
+  <data key="d2">0.5156367902016775</data>
+</edge>
+<edge source="CD74" target="CD164">
+  <data key="d1">0.5195879924323359</data>
+  <data key="d2">0.5195879924323359</data>
+</edge>
+<edge source="CD74" target="CAT">
+  <data key="d1">0.3880854020855223</data>
+  <data key="d2">0.3880854020855223</data>
+</edge>
+<edge source="CD74" target="CAPNS1">
+  <data key="d1">0.35300305748205907</data>
+  <data key="d2">0.35300305748205907</data>
+</edge>
+<edge source="CD74" target="BTF3">
+  <data key="d1">0.6718852778152978</data>
+  <data key="d2">0.6718852778152978</data>
+</edge>
+<edge source="CD74" target="ARF1">
+  <data key="d1">0.3778428799918172</data>
+  <data key="d2">0.3778428799918172</data>
+</edge>
+<edge source="ACSL1" target="ATP5B">
+  <data key="d1">0.7367965195740368</data>
+  <data key="d2">0.7367965195740368</data>
+</edge>
+<edge source="ACSL1" target="APOE">
+  <data key="d1">0.9578389069205336</data>
+  <data key="d2">0.9578389069205336</data>
+</edge>
+<edge source="ACSL1" target="AKR1C1">
+  <data key="d1">0.9774405563942877</data>
+  <data key="d2">0.9774405563942877</data>
+</edge>
+<edge source="ACSL1" target="ALDH2">
+  <data key="d1">0.9969473403671684</data>
+  <data key="d2">0.9969473403671684</data>
+</edge>
+<edge source="ACSL1" target="CD63">
+  <data key="d1">0.9008327028746865</data>
+  <data key="d2">0.9008327028746865</data>
+</edge>
+<edge source="ACSL1" target="ASPH">
+  <data key="d1">0.9119422147514634</data>
+  <data key="d2">0.9119422147514634</data>
+</edge>
+<edge source="ACSL1" target="CD81">
+  <data key="d1">0.9766500138727062</data>
+  <data key="d2">0.9766500138727062</data>
+</edge>
+<edge source="ACSL1" target="ANXA1">
+  <data key="d1">0.8233575035757</data>
+  <data key="d2">0.8233575035757</data>
+</edge>
+<edge source="ACSL1" target="CAV1">
+  <data key="d1">0.9146488716756063</data>
+  <data key="d2">0.9146488716756063</data>
+</edge>
+<edge source="ACSL1" target="CALR">
+  <data key="d1">0.3308543626139363</data>
+  <data key="d2">0.3308543626139363</data>
+</edge>
+<edge source="ACSL1" target="CD151">
+  <data key="d1">0.8789135224313753</data>
+  <data key="d2">0.8789135224313753</data>
+</edge>
+<edge source="ACSL1" target="ANXA5">
+  <data key="d1">0.9531629049106457</data>
+  <data key="d2">0.9531629049106457</data>
+</edge>
+<edge source="ACSL1" target="AKR1C3">
+  <data key="d1">0.5233672780804708</data>
+  <data key="d2">0.5233672780804708</data>
+</edge>
+<edge source="ACSL1" target="ANXA6">
+  <data key="d1">0.8372818552320417</data>
+  <data key="d2">0.8372818552320417</data>
+</edge>
+<edge source="ACSL1" target="ATP5E">
+  <data key="d1">0.9124859546341388</data>
+  <data key="d2">0.9124859546341388</data>
+</edge>
+<edge source="ACSL1" target="ATP5A1">
+  <data key="d1">0.7392465489109113</data>
+  <data key="d2">0.7392465489109113</data>
+</edge>
+<edge source="ACSL1" target="AOC3">
+  <data key="d1">0.9634697721767806</data>
+  <data key="d2">0.9634697721767806</data>
+</edge>
+<edge source="ACSL1" target="C3">
+  <data key="d1">0.9287778753248195</data>
+  <data key="d2">0.9287778753248195</data>
+</edge>
+<edge source="ACSL1" target="CALM1">
+  <data key="d1">0.9049781086310956</data>
+  <data key="d2">0.9049781086310956</data>
+</edge>
+<edge source="ACSL1" target="ACLY">
+  <data key="d1">0.405388362637499</data>
+  <data key="d2">0.405388362637499</data>
+</edge>
+<edge source="ACSL1" target="APOD">
+  <data key="d1">0.958702915982227</data>
+  <data key="d2">0.958702915982227</data>
+</edge>
+<edge source="ACSL1" target="CALM2">
+  <data key="d1">0.8084169739048559</data>
+  <data key="d2">0.8084169739048559</data>
+</edge>
+<edge source="ACSL1" target="BSG">
+  <data key="d1">0.6998935517493129</data>
+  <data key="d2">0.6998935517493129</data>
+</edge>
+<edge source="ACSL1" target="ACADVL">
+  <data key="d1">0.9408971109412275</data>
+  <data key="d2">0.9408971109412275</data>
+</edge>
+<edge source="ACSL1" target="APLP2">
+  <data key="d1">0.4012980834804937</data>
+  <data key="d2">0.4012980834804937</data>
+</edge>
+<edge source="ACSL1" target="ATP5G3">
+  <data key="d1">0.9026145803774211</data>
+  <data key="d2">0.9026145803774211</data>
+</edge>
+<edge source="ACSL1" target="ATF4">
+  <data key="d1">0.5073629908373157</data>
+  <data key="d2">0.5073629908373157</data>
+</edge>
+<edge source="ACSL1" target="CD164">
+  <data key="d1">0.9050316130257093</data>
+  <data key="d2">0.9050316130257093</data>
+</edge>
+<edge source="ACSL1" target="CAT">
+  <data key="d1">0.961116525202564</data>
+  <data key="d2">0.961116525202564</data>
+</edge>
+<edge source="ACSL1" target="CAPNS1">
+  <data key="d1">0.43505620469830675</data>
+  <data key="d2">0.43505620469830675</data>
+</edge>
+<edge source="ACSL1" target="BTF3">
+  <data key="d1">0.6536397994728018</data>
+  <data key="d2">0.6536397994728018</data>
+</edge>
+<edge source="ACSL1" target="ALDOC">
+  <data key="d1">0.9835433828415191</data>
+  <data key="d2">0.9835433828415191</data>
+</edge>
+<edge source="ACSL1" target="ARF1">
+  <data key="d1">0.3562704796746716</data>
+  <data key="d2">0.3562704796746716</data>
+</edge>
+<edge source="AGPAT2" target="ATP5B">
+  <data key="d1">0.7481639530251158</data>
+  <data key="d2">0.7481639530251158</data>
+</edge>
+<edge source="AGPAT2" target="APOE">
+  <data key="d1">0.9640240025231429</data>
+  <data key="d2">0.9640240025231429</data>
+</edge>
+<edge source="AGPAT2" target="AKR1C1">
+  <data key="d1">0.9845424172148275</data>
+  <data key="d2">0.9845424172148275</data>
+</edge>
+<edge source="AGPAT2" target="ALDH2">
+  <data key="d1">0.9976951819594102</data>
+  <data key="d2">0.9976951819594102</data>
+</edge>
+<edge source="AGPAT2" target="CD63">
+  <data key="d1">0.9091895280568729</data>
+  <data key="d2">0.9091895280568729</data>
+</edge>
+<edge source="AGPAT2" target="ASPH">
+  <data key="d1">0.9168165370994096</data>
+  <data key="d2">0.9168165370994096</data>
+</edge>
+<edge source="AGPAT2" target="CD81">
+  <data key="d1">0.9817498833578093</data>
+  <data key="d2">0.9817498833578093</data>
+</edge>
+<edge source="AGPAT2" target="ANXA1">
+  <data key="d1">0.8327395005382953</data>
+  <data key="d2">0.8327395005382953</data>
+</edge>
+<edge source="AGPAT2" target="CAV1">
+  <data key="d1">0.9181926663701422</data>
+  <data key="d2">0.9181926663701422</data>
+</edge>
+<edge source="AGPAT2" target="CALR">
+  <data key="d1">0.3269890751535119</data>
+  <data key="d2">0.3269890751535119</data>
+</edge>
+<edge source="AGPAT2" target="CD151">
+  <data key="d1">0.8868676460485494</data>
+  <data key="d2">0.8868676460485494</data>
+</edge>
+<edge source="AGPAT2" target="ANXA5">
+  <data key="d1">0.9554099806977524</data>
+  <data key="d2">0.9554099806977524</data>
+</edge>
+<edge source="AGPAT2" target="AKR1C3">
+  <data key="d1">0.542648165973673</data>
+  <data key="d2">0.542648165973673</data>
+</edge>
+<edge source="AGPAT2" target="ANXA6">
+  <data key="d1">0.8280943497600041</data>
+  <data key="d2">0.8280943497600041</data>
+</edge>
+<edge source="AGPAT2" target="ATP5E">
+  <data key="d1">0.9237582705036772</data>
+  <data key="d2">0.9237582705036772</data>
+</edge>
+<edge source="AGPAT2" target="ATP5A1">
+  <data key="d1">0.7424838128981566</data>
+  <data key="d2">0.7424838128981566</data>
+</edge>
+<edge source="AGPAT2" target="AOC3">
+  <data key="d1">0.9551737014912953</data>
+  <data key="d2">0.9551737014912953</data>
+</edge>
+<edge source="AGPAT2" target="C3">
+  <data key="d1">0.9374051150539852</data>
+  <data key="d2">0.9374051150539852</data>
+</edge>
+<edge source="AGPAT2" target="CALM1">
+  <data key="d1">0.9058095141833166</data>
+  <data key="d2">0.9058095141833166</data>
+</edge>
+<edge source="AGPAT2" target="ACLY">
+  <data key="d1">0.41677397591758336</data>
+  <data key="d2">0.41677397591758336</data>
+</edge>
+<edge source="AGPAT2" target="APOD">
+  <data key="d1">0.9666476879335842</data>
+  <data key="d2">0.9666476879335842</data>
+</edge>
+<edge source="AGPAT2" target="CALM2">
+  <data key="d1">0.8186865544703951</data>
+  <data key="d2">0.8186865544703951</data>
+</edge>
+<edge source="AGPAT2" target="BSG">
+  <data key="d1">0.7064457174605993</data>
+  <data key="d2">0.7064457174605993</data>
+</edge>
+<edge source="AGPAT2" target="ACADVL">
+  <data key="d1">0.941126315457811</data>
+  <data key="d2">0.941126315457811</data>
+</edge>
+<edge source="AGPAT2" target="APLP2">
+  <data key="d1">0.3997970278883986</data>
+  <data key="d2">0.3997970278883986</data>
+</edge>
+<edge source="AGPAT2" target="ATP5G3">
+  <data key="d1">0.9148677228413993</data>
+  <data key="d2">0.9148677228413993</data>
+</edge>
+<edge source="AGPAT2" target="ATF4">
+  <data key="d1">0.5168477601699163</data>
+  <data key="d2">0.5168477601699163</data>
+</edge>
+<edge source="AGPAT2" target="CD164">
+  <data key="d1">0.9015326458441101</data>
+  <data key="d2">0.9015326458441101</data>
+</edge>
+<edge source="AGPAT2" target="CAT">
+  <data key="d1">0.9586048128174858</data>
+  <data key="d2">0.9586048128174858</data>
+</edge>
+<edge source="AGPAT2" target="CAPNS1">
+  <data key="d1">0.4455789461785858</data>
+  <data key="d2">0.4455789461785858</data>
+</edge>
+<edge source="AGPAT2" target="BTF3">
+  <data key="d1">0.6582900548835972</data>
+  <data key="d2">0.6582900548835972</data>
+</edge>
+<edge source="AGPAT2" target="ALDOC">
+  <data key="d1">0.9836439005865434</data>
+  <data key="d2">0.9836439005865434</data>
+</edge>
+<edge source="AGPAT2" target="ARF1">
+  <data key="d1">0.3667656719366794</data>
+  <data key="d2">0.3667656719366794</data>
+</edge>
+<edge source="B2M" target="ATP5B">
+  <data key="d1">0.7198662772557392</data>
+  <data key="d2">0.7198662772557392</data>
+</edge>
+<edge source="B2M" target="APOE">
+  <data key="d1">0.7125949826887438</data>
+  <data key="d2">0.7125949826887438</data>
+</edge>
+<edge source="B2M" target="AKR1C1">
+  <data key="d1">0.7332198580148868</data>
+  <data key="d2">0.7332198580148868</data>
+</edge>
+<edge source="B2M" target="ALDH2">
+  <data key="d1">0.7069768435405006</data>
+  <data key="d2">0.7069768435405006</data>
+</edge>
+<edge source="B2M" target="CD63">
+  <data key="d1">0.7879297351918427</data>
+  <data key="d2">0.7879297351918427</data>
+</edge>
+<edge source="B2M" target="ASPH">
+  <data key="d1">0.6652328366412443</data>
+  <data key="d2">0.6652328366412443</data>
+</edge>
+<edge source="B2M" target="CD81">
+  <data key="d1">0.7539882724325023</data>
+  <data key="d2">0.7539882724325023</data>
+</edge>
+<edge source="B2M" target="ANXA1">
+  <data key="d1">0.712365400419449</data>
+  <data key="d2">0.712365400419449</data>
+</edge>
+<edge source="B2M" target="CAV1">
+  <data key="d1">0.6555621798448616</data>
+  <data key="d2">0.6555621798448616</data>
+</edge>
+<edge source="B2M" target="CALR">
+  <data key="d1">0.5860715826115075</data>
+  <data key="d2">0.5860715826115075</data>
+</edge>
+<edge source="B2M" target="CD151">
+  <data key="d1">0.638468730674395</data>
+  <data key="d2">0.638468730674395</data>
+</edge>
+<edge source="B2M" target="ANXA5">
+  <data key="d1">0.7714051298021586</data>
+  <data key="d2">0.7714051298021586</data>
+</edge>
+<edge source="B2M" target="AKR1C3">
+  <data key="d1">0.41006337802537235</data>
+  <data key="d2">0.41006337802537235</data>
+</edge>
+<edge source="B2M" target="CANX">
+  <data key="d1">0.487269865572233</data>
+  <data key="d2">0.487269865572233</data>
+</edge>
+<edge source="B2M" target="ANXA6">
+  <data key="d1">0.8347216363847385</data>
+  <data key="d2">0.8347216363847385</data>
+</edge>
+<edge source="B2M" target="ATP5E">
+  <data key="d1">0.8191800612077854</data>
+  <data key="d2">0.8191800612077854</data>
+</edge>
+<edge source="B2M" target="ATP5A1">
+  <data key="d1">0.7970500057296002</data>
+  <data key="d2">0.7970500057296002</data>
+</edge>
+<edge source="B2M" target="AOC3">
+  <data key="d1">0.6065734570238112</data>
+  <data key="d2">0.6065734570238112</data>
+</edge>
+<edge source="B2M" target="C3">
+  <data key="d1">0.731381295422336</data>
+  <data key="d2">0.731381295422336</data>
+</edge>
+<edge source="B2M" target="CALM1">
+  <data key="d1">0.7139316735660483</data>
+  <data key="d2">0.7139316735660483</data>
+</edge>
+<edge source="B2M" target="ACLY">
+  <data key="d1">0.4992124759603824</data>
+  <data key="d2">0.4992124759603824</data>
+</edge>
+<edge source="B2M" target="APOD">
+  <data key="d1">0.7428078488127405</data>
+  <data key="d2">0.7428078488127405</data>
+</edge>
+<edge source="B2M" target="CALM2">
+  <data key="d1">0.8040782380715648</data>
+  <data key="d2">0.8040782380715648</data>
+</edge>
+<edge source="B2M" target="CD44">
+  <data key="d1">0.49579948880076014</data>
+  <data key="d2">0.49579948880076014</data>
+</edge>
+<edge source="B2M" target="BSG">
+  <data key="d1">0.6044567103377834</data>
+  <data key="d2">0.6044567103377834</data>
+</edge>
+<edge source="B2M" target="ACADVL">
+  <data key="d1">0.7353924174915507</data>
+  <data key="d2">0.7353924174915507</data>
+</edge>
+<edge source="B2M" target="APLP2">
+  <data key="d1">0.42982192454357393</data>
+  <data key="d2">0.42982192454357393</data>
+</edge>
+<edge source="B2M" target="ATP5G3">
+  <data key="d1">0.795746183230422</data>
+  <data key="d2">0.795746183230422</data>
+</edge>
+<edge source="B2M" target="ATF4">
+  <data key="d1">0.558199944270018</data>
+  <data key="d2">0.558199944270018</data>
+</edge>
+<edge source="B2M" target="ATP1A1">
+  <data key="d1">0.4182136519791626</data>
+  <data key="d2">0.4182136519791626</data>
+</edge>
+<edge source="B2M" target="CD164">
+  <data key="d1">0.857223821563625</data>
+  <data key="d2">0.857223821563625</data>
+</edge>
+<edge source="B2M" target="CAT">
+  <data key="d1">0.7693871141091367</data>
+  <data key="d2">0.7693871141091367</data>
+</edge>
+<edge source="B2M" target="CAPNS1">
+  <data key="d1">0.4694554888333726</data>
+  <data key="d2">0.4694554888333726</data>
+</edge>
+<edge source="B2M" target="BTF3">
+  <data key="d1">0.8278993982426405</data>
+  <data key="d2">0.8278993982426405</data>
+</edge>
+<edge source="B2M" target="ALDOC">
+  <data key="d1">0.7122638245725472</data>
+  <data key="d2">0.7122638245725472</data>
+</edge>
+<edge source="B2M" target="ARF1">
+  <data key="d1">0.4798122424637839</data>
+  <data key="d2">0.4798122424637839</data>
+</edge>
+<edge source="CD36" target="ATP5B">
+  <data key="d1">0.7393914149841677</data>
+  <data key="d2">0.7393914149841677</data>
+</edge>
+<edge source="CD36" target="APOE">
+  <data key="d1">0.9637903152587505</data>
+  <data key="d2">0.9637903152587505</data>
+</edge>
+<edge source="CD36" target="AKR1C1">
+  <data key="d1">0.9818393969471362</data>
+  <data key="d2">0.9818393969471362</data>
+</edge>
+<edge source="CD36" target="ALDH2">
+  <data key="d1">0.9954152947738312</data>
+  <data key="d2">0.9954152947738312</data>
+</edge>
+<edge source="CD36" target="CD63">
+  <data key="d1">0.9106186860450546</data>
+  <data key="d2">0.9106186860450546</data>
+</edge>
+<edge source="CD36" target="ASPH">
+  <data key="d1">0.9058384468925409</data>
+  <data key="d2">0.9058384468925409</data>
+</edge>
+<edge source="CD36" target="CD81">
+  <data key="d1">0.9775817519524486</data>
+  <data key="d2">0.9775817519524486</data>
+</edge>
+<edge source="CD36" target="ANXA1">
+  <data key="d1">0.8313898132897841</data>
+  <data key="d2">0.8313898132897841</data>
+</edge>
+<edge source="CD36" target="CAV1">
+  <data key="d1">0.908965148154534</data>
+  <data key="d2">0.908965148154534</data>
+</edge>
+<edge source="CD36" target="CALR">
+  <data key="d1">0.3266263968272578</data>
+  <data key="d2">0.3266263968272578</data>
+</edge>
+<edge source="CD36" target="CD151">
+  <data key="d1">0.8742201603781735</data>
+  <data key="d2">0.8742201603781735</data>
+</edge>
+<edge source="CD36" target="ANXA5">
+  <data key="d1">0.9514321777951159</data>
+  <data key="d2">0.9514321777951159</data>
+</edge>
+<edge source="CD36" target="AKR1C3">
+  <data key="d1">0.5249448455478032</data>
+  <data key="d2">0.5249448455478032</data>
+</edge>
+<edge source="CD36" target="ANXA6">
+  <data key="d1">0.8269545537182438</data>
+  <data key="d2">0.8269545537182438</data>
+</edge>
+<edge source="CD36" target="ATP5E">
+  <data key="d1">0.925375856477193</data>
+  <data key="d2">0.925375856477193</data>
+</edge>
+<edge source="CD36" target="ATP5A1">
+  <data key="d1">0.7432808190870046</data>
+  <data key="d2">0.7432808190870046</data>
+</edge>
+<edge source="CD36" target="AOC3">
+  <data key="d1">0.9511445671953339</data>
+  <data key="d2">0.9511445671953339</data>
+</edge>
+<edge source="CD36" target="C3">
+  <data key="d1">0.9372612875717593</data>
+  <data key="d2">0.9372612875717593</data>
+</edge>
+<edge source="CD36" target="CALM1">
+  <data key="d1">0.9016040093717265</data>
+  <data key="d2">0.9016040093717265</data>
+</edge>
+<edge source="CD36" target="ACLY">
+  <data key="d1">0.40887082343952114</data>
+  <data key="d2">0.40887082343952114</data>
+</edge>
+<edge source="CD36" target="APOD">
+  <data key="d1">0.9676742279507896</data>
+  <data key="d2">0.9676742279507896</data>
+</edge>
+<edge source="CD36" target="CALM2">
+  <data key="d1">0.8161420959311281</data>
+  <data key="d2">0.8161420959311281</data>
+</edge>
+<edge source="CD36" target="BSG">
+  <data key="d1">0.6934142629635355</data>
+  <data key="d2">0.6934142629635355</data>
+</edge>
+<edge source="CD36" target="ACADVL">
+  <data key="d1">0.9362175943664349</data>
+  <data key="d2">0.9362175943664349</data>
+</edge>
+<edge source="CD36" target="APLP2">
+  <data key="d1">0.39694091861215997</data>
+  <data key="d2">0.39694091861215997</data>
+</edge>
+<edge source="CD36" target="ATP5G3">
+  <data key="d1">0.9122122646655165</data>
+  <data key="d2">0.9122122646655165</data>
+</edge>
+<edge source="CD36" target="ATF4">
+  <data key="d1">0.5043340710315427</data>
+  <data key="d2">0.5043340710315427</data>
+</edge>
+<edge source="CD36" target="CD164">
+  <data key="d1">0.9045999226584566</data>
+  <data key="d2">0.9045999226584566</data>
+</edge>
+<edge source="CD36" target="CAT">
+  <data key="d1">0.9654320692546539</data>
+  <data key="d2">0.9654320692546539</data>
+</edge>
+<edge source="CD36" target="CAPNS1">
+  <data key="d1">0.43257666860690447</data>
+  <data key="d2">0.43257666860690447</data>
+</edge>
+<edge source="CD36" target="BTF3">
+  <data key="d1">0.663393025953379</data>
+  <data key="d2">0.663393025953379</data>
+</edge>
+<edge source="CD36" target="ALDOC">
+  <data key="d1">0.9835807282519982</data>
+  <data key="d2">0.9835807282519982</data>
+</edge>
+<edge source="CD36" target="ARF1">
+  <data key="d1">0.3537473720549537</data>
+  <data key="d2">0.3537473720549537</data>
+</edge>
+<edge source="ADH1B" target="ATP5B">
+  <data key="d1">0.7373823897776998</data>
+  <data key="d2">0.7373823897776998</data>
+</edge>
+<edge source="ADH1B" target="APOE">
+  <data key="d1">0.974753275996736</data>
+  <data key="d2">0.974753275996736</data>
+</edge>
+<edge source="ADH1B" target="AKR1C1">
+  <data key="d1">0.9905036310247634</data>
+  <data key="d2">0.9905036310247634</data>
+</edge>
+<edge source="ADH1B" target="ALDH2">
+  <data key="d1">0.9754859641240594</data>
+  <data key="d2">0.9754859641240594</data>
+</edge>
+<edge source="ADH1B" target="CD63">
+  <data key="d1">0.9310850650217836</data>
+  <data key="d2">0.9310850650217836</data>
+</edge>
+<edge source="ADH1B" target="ASPH">
+  <data key="d1">0.885363083023632</data>
+  <data key="d2">0.885363083023632</data>
+</edge>
+<edge source="ADH1B" target="CD81">
+  <data key="d1">0.9757724168072373</data>
+  <data key="d2">0.9757724168072373</data>
+</edge>
+<edge source="ADH1B" target="ANXA1">
+  <data key="d1">0.8302088078216339</data>
+  <data key="d2">0.8302088078216339</data>
+</edge>
+<edge source="ADH1B" target="CAV1">
+  <data key="d1">0.892988873602235</data>
+  <data key="d2">0.892988873602235</data>
+</edge>
+<edge source="ADH1B" target="CALR">
+  <data key="d1">0.31427660014169023</data>
+  <data key="d2">0.31427660014169023</data>
+</edge>
+<edge source="ADH1B" target="CD151">
+  <data key="d1">0.8512795052985448</data>
+  <data key="d2">0.8512795052985448</data>
+</edge>
+<edge source="ADH1B" target="ANXA5">
+  <data key="d1">0.9469384789261439</data>
+  <data key="d2">0.9469384789261439</data>
+</edge>
+<edge source="ADH1B" target="AKR1C3">
+  <data key="d1">0.5322293130222939</data>
+  <data key="d2">0.5322293130222939</data>
+</edge>
+<edge source="ADH1B" target="ANXA6">
+  <data key="d1">0.8022550906919779</data>
+  <data key="d2">0.8022550906919779</data>
+</edge>
+<edge source="ADH1B" target="ATP5E">
+  <data key="d1">0.9566115665543412</data>
+  <data key="d2">0.9566115665543412</data>
+</edge>
+<edge source="ADH1B" target="ATP5A1">
+  <data key="d1">0.7389054607313462</data>
+  <data key="d2">0.7389054607313462</data>
+</edge>
+<edge source="ADH1B" target="AOC3">
+  <data key="d1">0.8933705472747101</data>
+  <data key="d2">0.8933705472747101</data>
+</edge>
+<edge source="ADH1B" target="C3">
+  <data key="d1">0.9625164897747178</data>
+  <data key="d2">0.9625164897747178</data>
+</edge>
+<edge source="ADH1B" target="CALM1">
+  <data key="d1">0.8819150766592807</data>
+  <data key="d2">0.8819150766592807</data>
+</edge>
+<edge source="ADH1B" target="ACLY">
+  <data key="d1">0.40760239998138803</data>
+  <data key="d2">0.40760239998138803</data>
+</edge>
+<edge source="ADH1B" target="APOD">
+  <data key="d1">0.9933901602578236</data>
+  <data key="d2">0.9933901602578236</data>
+</edge>
+<edge source="ADH1B" target="CALM2">
+  <data key="d1">0.8251794998113772</data>
+  <data key="d2">0.8251794998113772</data>
+</edge>
+<edge source="ADH1B" target="BSG">
+  <data key="d1">0.66448335562863</data>
+  <data key="d2">0.66448335562863</data>
+</edge>
+<edge source="ADH1B" target="ACADVL">
+  <data key="d1">0.9054819909942687</data>
+  <data key="d2">0.9054819909942687</data>
+</edge>
+<edge source="ADH1B" target="APLP2">
+  <data key="d1">0.3930132770214019</data>
+  <data key="d2">0.3930132770214019</data>
+</edge>
+<edge source="ADH1B" target="ATP5G3">
+  <data key="d1">0.9333820055478512</data>
+  <data key="d2">0.9333820055478512</data>
+</edge>
+<edge source="ADH1B" target="ATF4">
+  <data key="d1">0.4903773258128905</data>
+  <data key="d2">0.4903773258128905</data>
+</edge>
+<edge source="ADH1B" target="CD164">
+  <data key="d1">0.8816814830477897</data>
+  <data key="d2">0.8816814830477897</data>
+</edge>
+<edge source="ADH1B" target="CAT">
+  <data key="d1">0.9375426704690815</data>
+  <data key="d2">0.9375426704690815</data>
+</edge>
+<edge source="ADH1B" target="CAPNS1">
+  <data key="d1">0.40793997543352045</data>
+  <data key="d2">0.40793997543352045</data>
+</edge>
+<edge source="ADH1B" target="BTF3">
+  <data key="d1">0.6654829981758074</data>
+  <data key="d2">0.6654829981758074</data>
+</edge>
+<edge source="ADH1B" target="ALDOC">
+  <data key="d1">0.9670490963730523</data>
+  <data key="d2">0.9670490963730523</data>
+</edge>
+<edge source="ADH1B" target="ARF1">
+  <data key="d1">0.33280011028718326</data>
+  <data key="d2">0.33280011028718326</data>
+</edge>
+<edge source="CD47" target="ANK3">
+  <data key="d1">0.37752377737478565</data>
+  <data key="d2">0.37752377737478565</data>
+</edge>
+<edge source="ALDOA" target="ATP5B">
+  <data key="d1">0.9562064548491039</data>
+  <data key="d2">0.9562064548491039</data>
+</edge>
+<edge source="ALDOA" target="APOE">
+  <data key="d1">0.7537635243489961</data>
+  <data key="d2">0.7537635243489961</data>
+</edge>
+<edge source="ALDOA" target="AKR1C1">
+  <data key="d1">0.8147230905174178</data>
+  <data key="d2">0.8147230905174178</data>
+</edge>
+<edge source="ALDOA" target="ALDH2">
+  <data key="d1">0.808478280886111</data>
+  <data key="d2">0.808478280886111</data>
+</edge>
+<edge source="ALDOA" target="ACTN4">
+  <data key="d1">0.5402977520055036</data>
+  <data key="d2">0.5402977520055036</data>
+</edge>
+<edge source="ALDOA" target="CD63">
+  <data key="d1">0.8409752698748397</data>
+  <data key="d2">0.8409752698748397</data>
+</edge>
+<edge source="ALDOA" target="ASPH">
+  <data key="d1">0.8627832585227756</data>
+  <data key="d2">0.8627832585227756</data>
+</edge>
+<edge source="ALDOA" target="CD81">
+  <data key="d1">0.8606556088948343</data>
+  <data key="d2">0.8606556088948343</data>
+</edge>
+<edge source="ALDOA" target="ANXA1">
+  <data key="d1">0.8778098145797755</data>
+  <data key="d2">0.8778098145797755</data>
+</edge>
+<edge source="ALDOA" target="CAV1">
+  <data key="d1">0.8290832139095761</data>
+  <data key="d2">0.8290832139095761</data>
+</edge>
+<edge source="ALDOA" target="CALR">
+  <data key="d1">0.6648035908812556</data>
+  <data key="d2">0.6648035908812556</data>
+</edge>
+<edge source="ALDOA" target="CD151">
+  <data key="d1">0.8949529428285111</data>
+  <data key="d2">0.8949529428285111</data>
+</edge>
+<edge source="ALDOA" target="ANXA5">
+  <data key="d1">0.8502062510696846</data>
+  <data key="d2">0.8502062510696846</data>
+</edge>
+<edge source="ALDOA" target="AKR1C3">
+  <data key="d1">0.7490227164178862</data>
+  <data key="d2">0.7490227164178862</data>
+</edge>
+<edge source="ALDOA" target="CANX">
+  <data key="d1">0.5105437449852075</data>
+  <data key="d2">0.5105437449852075</data>
+</edge>
+<edge source="ALDOA" target="AKR1B10">
+  <data key="d1">0.3836354830264737</data>
+  <data key="d2">0.3836354830264737</data>
+</edge>
+<edge source="ALDOA" target="ANXA6">
+  <data key="d1">0.7928532908782698</data>
+  <data key="d2">0.7928532908782698</data>
+</edge>
+<edge source="ALDOA" target="ATP5E">
+  <data key="d1">0.8273457271068518</data>
+  <data key="d2">0.8273457271068518</data>
+</edge>
+<edge source="ALDOA" target="ATP5A1">
+  <data key="d1">0.8957171268923731</data>
+  <data key="d2">0.8957171268923731</data>
+</edge>
+<edge source="ALDOA" target="AKR1B1">
+  <data key="d1">0.4667849740173361</data>
+  <data key="d2">0.4667849740173361</data>
+</edge>
+<edge source="ALDOA" target="AOC3">
+  <data key="d1">0.7385837333075677</data>
+  <data key="d2">0.7385837333075677</data>
+</edge>
+<edge source="ALDOA" target="C3">
+  <data key="d1">0.747211589466968</data>
+  <data key="d2">0.747211589466968</data>
+</edge>
+<edge source="ALDOA" target="CALM1">
+  <data key="d1">0.8458103799175263</data>
+  <data key="d2">0.8458103799175263</data>
+</edge>
+<edge source="ALDOA" target="ACLY">
+  <data key="d1">0.7969052088291798</data>
+  <data key="d2">0.7969052088291798</data>
+</edge>
+<edge source="ALDOA" target="APOD">
+  <data key="d1">0.7560631421090528</data>
+  <data key="d2">0.7560631421090528</data>
+</edge>
+<edge source="ALDOA" target="CALM2">
+  <data key="d1">0.8965547361676476</data>
+  <data key="d2">0.8965547361676476</data>
+</edge>
+<edge source="ALDOA" target="CD44">
+  <data key="d1">0.3818170227590733</data>
+  <data key="d2">0.3818170227590733</data>
+</edge>
+<edge source="ALDOA" target="BSG">
+  <data key="d1">0.9004143080663519</data>
+  <data key="d2">0.9004143080663519</data>
+</edge>
+<edge source="ALDOA" target="ACADVL">
+  <data key="d1">0.9108722038242623</data>
+  <data key="d2">0.9108722038242623</data>
+</edge>
+<edge source="ALDOA" target="APLP2">
+  <data key="d1">0.5378051058121693</data>
+  <data key="d2">0.5378051058121693</data>
+</edge>
+<edge source="ALDOA" target="ATP5G3">
+  <data key="d1">0.8993094561174492</data>
+  <data key="d2">0.8993094561174492</data>
+</edge>
+<edge source="ALDOA" target="APP">
+  <data key="d1">0.43798335292471735</data>
+  <data key="d2">0.43798335292471735</data>
+</edge>
+<edge source="ALDOA" target="ATF4">
+  <data key="d1">0.8562694244946313</data>
+  <data key="d2">0.8562694244946313</data>
+</edge>
+<edge source="ALDOA" target="ATP1A1">
+  <data key="d1">0.39131556204670354</data>
+  <data key="d2">0.39131556204670354</data>
+</edge>
+<edge source="ALDOA" target="CD164">
+  <data key="d1">0.8787366896851853</data>
+  <data key="d2">0.8787366896851853</data>
+</edge>
+<edge source="ALDOA" target="CAT">
+  <data key="d1">0.8472003330497465</data>
+  <data key="d2">0.8472003330497465</data>
+</edge>
+<edge source="ALDOA" target="CAPNS1">
+  <data key="d1">0.8170749693281715</data>
+  <data key="d2">0.8170749693281715</data>
+</edge>
+<edge source="ALDOA" target="BTF3">
+  <data key="d1">0.8616093818104126</data>
+  <data key="d2">0.8616093818104126</data>
+</edge>
+<edge source="ALDOA" target="ATP2A2">
+  <data key="d1">0.5888992986622608</data>
+  <data key="d2">0.5888992986622608</data>
+</edge>
+<edge source="ALDOA" target="ALDOC">
+  <data key="d1">0.7897492455407453</data>
+  <data key="d2">0.7897492455407453</data>
+</edge>
+<edge source="ALDOA" target="ARF1">
+  <data key="d1">0.7875307174578303</data>
+  <data key="d2">0.7875307174578303</data>
+</edge>
+<edge source="AHNAK" target="AKR1C1">
+  <data key="d1">0.3230817288986053</data>
+  <data key="d2">0.3230817288986053</data>
+</edge>
+<edge source="AHNAK" target="ALDH2">
+  <data key="d1">0.3139309531950991</data>
+  <data key="d2">0.3139309531950991</data>
+</edge>
+<edge source="AHNAK" target="CD63">
+  <data key="d1">0.510182517028023</data>
+  <data key="d2">0.510182517028023</data>
+</edge>
+<edge source="AHNAK" target="ASPH">
+  <data key="d1">0.45708731827593707</data>
+  <data key="d2">0.45708731827593707</data>
+</edge>
+<edge source="AHNAK" target="CD81">
+  <data key="d1">0.3604818087753916</data>
+  <data key="d2">0.3604818087753916</data>
+</edge>
+<edge source="AHNAK" target="AP000769.1">
+  <data key="d1">0.5743338447147488</data>
+  <data key="d2">0.5743338447147488</data>
+</edge>
+<edge source="AHNAK" target="ANXA1">
+  <data key="d1">0.42780622132915525</data>
+  <data key="d2">0.42780622132915525</data>
+</edge>
+<edge source="AHNAK" target="CAV1">
+  <data key="d1">0.5327504797576208</data>
+  <data key="d2">0.5327504797576208</data>
+</edge>
+<edge source="AHNAK" target="ANKRD30BL">
+  <data key="d1">0.3462059161916639</data>
+  <data key="d2">0.3462059161916639</data>
+</edge>
+<edge source="AHNAK" target="CALR">
+  <data key="d1">0.6671507693102501</data>
+  <data key="d2">0.6671507693102501</data>
+</edge>
+<edge source="AHNAK" target="CD151">
+  <data key="d1">0.34071612465812856</data>
+  <data key="d2">0.34071612465812856</data>
+</edge>
+<edge source="AHNAK" target="ANXA5">
+  <data key="d1">0.4659292103695203</data>
+  <data key="d2">0.4659292103695203</data>
+</edge>
+<edge source="AHNAK" target="CANX">
+  <data key="d1">0.5241319237683582</data>
+  <data key="d2">0.5241319237683582</data>
+</edge>
+<edge source="AHNAK" target="ANXA6">
+  <data key="d1">0.467824090290184</data>
+  <data key="d2">0.467824090290184</data>
+</edge>
+<edge source="AHNAK" target="AHNAK2">
+  <data key="d1">0.8722797405933597</data>
+  <data key="d2">0.8722797405933597</data>
+</edge>
+<edge source="AHNAK" target="ATP5A1">
+  <data key="d1">0.452314013920917</data>
+  <data key="d2">0.452314013920917</data>
+</edge>
+<edge source="AHNAK" target="AOC3">
+  <data key="d1">0.3079424279153925</data>
+  <data key="d2">0.3079424279153925</data>
+</edge>
+<edge source="AHNAK" target="CALM1">
+  <data key="d1">0.43109648322699606</data>
+  <data key="d2">0.43109648322699606</data>
+</edge>
+<edge source="AHNAK" target="ACLY">
+  <data key="d1">0.4380131666312049</data>
+  <data key="d2">0.4380131666312049</data>
+</edge>
+<edge source="AHNAK" target="CALM2">
+  <data key="d1">0.3713363079390015</data>
+  <data key="d2">0.3713363079390015</data>
+</edge>
+<edge source="AHNAK" target="CD44">
+  <data key="d1">0.5908541654608704</data>
+  <data key="d2">0.5908541654608704</data>
+</edge>
+<edge source="AHNAK" target="BSG">
+  <data key="d1">0.34447790551011837</data>
+  <data key="d2">0.34447790551011837</data>
+</edge>
+<edge source="AHNAK" target="ACADVL">
+  <data key="d1">0.3927916006999197</data>
+  <data key="d2">0.3927916006999197</data>
+</edge>
+<edge source="AHNAK" target="APLP2">
+  <data key="d1">0.8384643048537952</data>
+  <data key="d2">0.8384643048537952</data>
+</edge>
+<edge source="AHNAK" target="APP">
+  <data key="d1">0.6103526756982661</data>
+  <data key="d2">0.6103526756982661</data>
+</edge>
+<edge source="AHNAK" target="CD164">
+  <data key="d1">0.43619856001866997</data>
+  <data key="d2">0.43619856001866997</data>
+</edge>
+<edge source="AHNAK" target="CAT">
+  <data key="d1">0.38483641519513867</data>
+  <data key="d2">0.38483641519513867</data>
+</edge>
+<edge source="AHNAK" target="ATP2A2">
+  <data key="d1">0.33391867176275924</data>
+  <data key="d2">0.33391867176275924</data>
+</edge>
+</graph></graphml>

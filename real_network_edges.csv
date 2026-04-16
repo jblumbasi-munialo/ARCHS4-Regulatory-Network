@@ -1,0 +1,57 @@
+# 🧬 Regulatory Network from Real ARCHS4 Expression Data
+
+## Project Overview
+This repository contains a **regulatory network** reconstructed from real ARCHS4 RNA-seq data (5000 genes, 200 samples). The network identifies significant correlations between potential regulators and target genes.
+
+## Network Statistics
+| Metric | Value |
+|--------|-------|
+| Samples | 200 |
+| Genes Analyzed | 5,000 |
+| Regulators | 20 |
+| Target Genes | 50 |
+| Significant Edges | 491 |
+| Network Density | 0.1017 |
+
+## Top Regulators (Hub Genes)
+| Gene | Degree Centrality |
+|------|-------------------|
+| ALDOA | 0.594 |
+| ANXA2 | 0.580 |
+| AKR1C2 | 0.551 |
+| B2M | 0.522 |
+| ACTB | 0.493 |
+
+## Data Source
+- **ARCHS4**: Uniformly processed RNA-seq data from GEO/SRA
+- **Expression Matrix**: 5,000 genes × 200 samples
+- **Correlation Method**: Pearson correlation (|r| > 0.3, p < 0.05)
+
+## Files
+| File | Description |
+|------|-------------|
+| `archs4_expression_data.csv` | Raw expression matrix (200×5000) |
+| `real_network_nodes.csv` | Node attributes (degree, betweenness) |
+| `real_network_edges.csv` | Edge attributes (correlation, weight) |
+| `real_regulatory_network.graphml` | Cytoscape-ready network |
+| `real_regulatory_network.png` | Network visualization |
+
+## How to Use in Cytoscape
+1. Download and install Cytoscape from https://cytoscape.org
+2. Open `real_regulatory_network.graphml`
+3. Apply layout: Layout → Attribute Circle Layout
+4. Color nodes by degree centrality
+5. Style edges by correlation strength
+
+## Citation
+```bibtex
+@misc{ARCHS4_Regulatory_Network_2026,
+  author = {{HCMI-CMDC Research Team}},
+  title = {Regulatory Network from Real ARCHS4 Expression Data},
+  year = {2026},
+  publisher = {GitHub}
+}
+```
+
+---
+**Generated: 2026-04-16 07:46:13**
