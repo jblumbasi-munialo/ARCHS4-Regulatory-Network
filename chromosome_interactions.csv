@@ -1,0 +1,9 @@
+Motif_Type,Count,Random_Avg,Random_Std,Z_Score,Significance
+No edges,129793.0,123589.45,694.0936013968147,8.937627414394534,Overrepresented
+Single edge,16317.0,21215.08,631.2638541846031,-7.75916436135378,Underrepresented
+Two edges (V-shaped),0.0,514.44,42.908814945183465,-11.989144903144108,Underrepresented
+Feed-forward loop,0.0,524.44,38.94722583188692,-13.465400649168442,Underrepresented
+Bi-fan,0.0,524.0,55.422197718964554,-9.454695439129003,Underrepresented
+Feedback loop (2-node),1330.0,1035.41,69.82522395237984,4.21896247981829,Overrepresented
+3-node feedback,0.0,37.18,6.351976070483893,-5.8532966099741035,Underrepresented
+Other,0.0,0.0,0.0,0.0,Not significant

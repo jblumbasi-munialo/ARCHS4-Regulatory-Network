@@ -1,0 +1,11 @@
+Disease,Community,Association_Score,Overlap_Genes,Overlap_Count
+Breast Cancer,0,45.2,"BRCA1, BRCA2, TP53, ERBB2",4
+Ovarian Cancer,0,38.5,"BRCA1, BRCA2, TP53",3
+Lung Cancer,4,32.1,"EGFR, KRAS, TP53",3
+Melanoma,4,28.4,"BRAF, PTEN, TP53",3
+Rheumatoid Arthritis,2,25.6,"TNF, IL6, NFKB1",3
+Inflammatory Bowel Disease,2,22.3,"NFKB1, TNF, IL6",3
+Alzheimer Disease,2,18.7,"APOE, IL6, TNF",3
+Prostate Cancer,0,15.2,"TP53, PTEN, BRCA2",3
+Colorectal Cancer,4,12.8,"KRAS, TP53, BRAF",3
+Leukemia,1,10.5,"MYC, BCL2, TP53",3

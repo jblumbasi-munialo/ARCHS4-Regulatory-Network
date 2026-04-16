@@ -1,0 +1,2987 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="line_style" attr.type="string"/>
+<key id="d2" for="edge" attr.name="validated" attr.type="long"/>
+<key id="d1" for="edge" attr.name="importance" attr.type="double"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="ABC14-864958H18.2">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB7">
+  <data key="d0">Target</data>
+</node>
+<node id="AAK1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCD4">
+  <data key="d0">Target</data>
+</node>
+<node id="ABC12-47964100C23.1">
+  <data key="d0">Target</data>
+</node>
+<node id="AADAT">
+  <data key="d0">Target</data>
+</node>
+<node id="AADACL3">
+  <data key="d0">Target</data>
+</node>
+<node id="AB019441.29">
+  <data key="d0">Target</data>
+</node>
+<node id="A2M">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA7">
+  <data key="d0">Target</data>
+</node>
+<node id="AASS">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB8">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC13">
+  <data key="d0">Target</data>
+</node>
+<node id="AARS">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA8">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB4">
+  <data key="d0">Target</data>
+</node>
+<node id="AASDH">
+  <data key="d0">Target</data>
+</node>
+<node id="A4GALT">
+  <data key="d0">Target</data>
+</node>
+<node id="CD36">
+  <data key="d0">TF</data>
+</node>
+<node id="AGPAT2">
+  <data key="d0">TF</data>
+</node>
+<node id="ABCB6">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC6P2">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB10P1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB11">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC11">
+  <data key="d0">Target</data>
+</node>
+<node id="A1BG">
+  <data key="d0">Target</data>
+</node>
+<node id="ADIRF">
+  <data key="d0">TF</data>
+</node>
+<node id="AAGAB">
+  <data key="d0">Target</data>
+</node>
+<node id="AADACL4">
+  <data key="d0">Target</data>
+</node>
+<node id="ANXA2">
+  <data key="d0">TF</data>
+</node>
+<node id="ABCB10">
+  <data key="d0">Target</data>
+</node>
+<node id="AASDHPPT">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC5">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCD2">
+  <data key="d0">Target</data>
+</node>
+<node id="ABC13-48559800H2.1">
+  <data key="d0">Target</data>
+</node>
+<node id="ACTG1">
+  <data key="d0">TF</data>
+</node>
+<node id="AAED1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA6">
+  <data key="d0">Target</data>
+</node>
+<node id="ALDOA">
+  <data key="d0">TF</data>
+</node>
+<node id="ABCD3">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCD1">
+  <data key="d0">Target</data>
+</node>
+<node id="AATK-AS1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABC13-47656900H15.1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCD1P5">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA5">
+  <data key="d0">Target</data>
+</node>
+<node id="AKR1C2">
+  <data key="d0">TF</data>
+</node>
+<node id="ABCA2">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB9">
+  <data key="d0">Target</data>
+</node>
+<node id="ABC7-42404400C24.1">
+  <data key="d0">Target</data>
+</node>
+<node id="AARSD1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA10">
+  <data key="d0">Target</data>
+</node>
+<node id="AADACP1">
+  <data key="d0">Target</data>
+</node>
+<node id="AAR2">
+  <data key="d0">Target</data>
+</node>
+<node id="A3GALT2">
+  <data key="d0">Target</data>
+</node>
+<node id="AADAC">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA3">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA4">
+  <data key="d0">Target</data>
+</node>
+<node id="AHNAK">
+  <data key="d0">TF</data>
+</node>
+<node id="A2MP1">
+  <data key="d0">Target</data>
+</node>
+<node id="AAMP">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA11P">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC3">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC10">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC2">
+  <data key="d0">Target</data>
+</node>
+<node id="AAAS">
+  <data key="d0">Target</data>
+</node>
+<node id="ADIPOQ">
+  <data key="d0">TF</data>
+</node>
+<node id="ABCA9">
+  <data key="d0">Target</data>
+</node>
+<node id="AACS">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC4">
+  <data key="d0">Target</data>
+</node>
+<node id="B2M">
+  <data key="d0">TF</data>
+</node>
+<node id="ABC9-43961700F1.1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC6">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC6P1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC12">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA17P">
+  <data key="d0">Target</data>
+</node>
+<node id="ABC13-48559800H2.2">
+  <data key="d0">Target</data>
+</node>
+<node id="AANAT">
+  <data key="d0">Target</data>
+</node>
+<node id="ABC13-47488600E17.1">
+  <data key="d0">Target</data>
+</node>
+<node id="AARS2">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC9">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC1">
+  <data key="d0">Target</data>
+</node>
+<node id="AATF">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB1">
+  <data key="d0">Target</data>
+</node>
+<node id="AAMDC">
+  <data key="d0">Target</data>
+</node>
+<node id="ACTB">
+  <data key="d0">TF</data>
+</node>
+<node id="ACSL1">
+  <data key="d0">TF</data>
+</node>
+<edge source="CD36" target="AAR2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="AADAC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCA4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCC11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABC12-47964100C23.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCB8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="A2M">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="AASDH">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCD4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCC6P2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCB1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCA8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCA1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCD3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="AAMDC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="AADACL4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCA10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCC6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCB7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="AAGAB">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCC6P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="AADACL3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCB6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="AATK-AS1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="A4GALT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCB11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="AACS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCA6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="AAAS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCC5">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="AAMP">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCC9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCD2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="A2MP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCA9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="AARSD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="CD36" target="ABCA11P">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="AATF">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="AAGAB">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCC6P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="AADACL3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCB6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="AATK-AS1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="A4GALT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCB11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="AACS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCA6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="AAAS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCC5">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="AAMP">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCC9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCD2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="A2MP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCA9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="AARSD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCA11P">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="AAR2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="AADAC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCA4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCC11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABC12-47964100C23.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCB8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="A2M">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="AASDH">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCD4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCC6P2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCB1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCA8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCA1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCD3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="AAMDC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="AADACL4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCA10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCC6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AGPAT2" target="ABCB7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="AARSD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCA11P">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="AADACL3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="AAR2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="AADAC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCA4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCC11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCB8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="A2M">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="AASDH">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="A2MP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCD4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCC6P2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCB1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCA8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCA1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCD3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABC12-47964100C23.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="AAMDC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="AADACL4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCA10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCC6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCB7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="AAGAB">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCC6P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCB6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="AATK-AS1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="A4GALT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCB11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="AACS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCA6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="AAAS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="AAMP">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCC9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCD2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIRF" target="ABCA9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="A2M">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AASDH">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCB7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCB10P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCC6P2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCB9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCC1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCB6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AATK-AS1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCA2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCA1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCB10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABC14-864958H18.2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AARS2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABC13-47488600E17.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCC9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AAED1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AAMDC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AADACL4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCA10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCD2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCC6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AANAT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AADACP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AATF">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AAGAB">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCC6P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AADACL3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="A4GALT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AADAT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCB11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AAK1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCC12">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AACS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCA6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCC2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AAAS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCC5">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AAMP">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AARS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="A2MP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCC3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCA9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABC7-42404400C24.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCD4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCA3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCA7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AARSD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCA11P">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCA8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AAR2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCC10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AADAC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCA4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCC11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCD3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABC12-47964100C23.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="AASDHPPT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ANXA2" target="ABCB8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABC13-47488600E17.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABC13-48559800H2.2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AAED1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AADACP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AARSD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AATF">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AAGAB">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="A4GALT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AADAT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AAK1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCC11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCC12">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCC2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AAAS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCC5">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AAMP">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AARS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCC3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABC7-42404400C24.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCD4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCA3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCA7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCA11P">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AAR2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCC10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AADAC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCA4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCD3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AASDHPPT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABC13-48559800H2.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCB8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AB019441.29">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AASDH">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AANAT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCB7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCB10P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCC6P2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCB9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABC13-47656900H15.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCC1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCB6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="ABCB10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AACS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTG1" target="AARS2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCB6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AATK-AS1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="A4GALT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AADAT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCB11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AAK1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AACS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCA6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AAAS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCC5">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AARS2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AAMP">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCC9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AARS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCD2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="A2MP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCC3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCA9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABC7-42404400C24.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCA3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCA7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AADACP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AARSD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCA11P">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AAR2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AADAC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCA4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCC11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABC12-47964100C23.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABC13-48559800H2.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCC2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCB8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AB019441.29">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="A2M">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AASDH">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCB10P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCD4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCC6P2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCB9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCB1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCC1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCA8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCA2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCC10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCA1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCB10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCD3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AASDHPPT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AAED1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AAMDC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AADACL4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCA10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCC6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AANAT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCB7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AATF">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="AAGAB">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ALDOA" target="ABCC6P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCC6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AANAT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCB7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AATF">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AAGAB">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCC6P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCB6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AATK-AS1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="A4GALT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AADAT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCB11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AAK1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCC12">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AACS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AAAS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCC5">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AAMP">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCC9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AARS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCD2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="A2MP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCC3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCA9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABC7-42404400C24.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCA3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AADACP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AARSD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCA11P">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AAR2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AADAC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCA4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCC11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABC12-47964100C23.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCC2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCB8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="A2M">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AASDH">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCB10P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCD4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCC6P2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCB9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCB1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCC1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCA8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCA2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCC10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCA1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCB10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCD3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AASDHPPT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AAMDC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="AADACL4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AKR1C2" target="ABCA10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCA8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCC10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCB10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCD3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="AASDHPPT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABC13-47488600E17.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="AAED1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCA10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCA17P">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCC6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCC13">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCB7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCD1P5">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCB9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="AAGAB">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCB6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="A4GALT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="AAK1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCA1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="AACS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCA6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABC14-864958H18.2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="AARS2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="AAMP">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCC9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="AASS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="A3GALT2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCA7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="A1BG">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCA11P">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="AADACL3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="AAR2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCA4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCC11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCB8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCC5">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="AASDH">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="A2MP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCA9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCD4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCC6P2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCB4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="AHNAK" target="ABCA5">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="AAR2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="AADAC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCC11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABC12-47964100C23.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCB8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="A2M">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="AASDH">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="A2MP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCD4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCC6P2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCB1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCD3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="AAMDC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="AADACL4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCC6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCB7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="AAGAB">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCC6P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="AADACL3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCB6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="AATK-AS1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="A4GALT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCB11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="AACS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="AAAS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="AAMP">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCC9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCD2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="AARSD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA11P">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCB8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AASDH">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCB7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCC6P2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCB1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCB6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AATK-AS1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABC9-43961700F1.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCA1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCB10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AARS2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCC9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AAED1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AAMDC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AADACL4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCA10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCD2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCC6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AARSD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AATF">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AAGAB">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCC6P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AADACL3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="A4GALT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCB11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AAK1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCC11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AACS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCA6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AAAS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCC5">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AAMP">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AARS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="A2M">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="A2MP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCA9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCD4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCA7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCA5">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCA11P">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCA8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AAR2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCC10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AADAC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCA4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABCD3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="ABC12-47964100C23.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="B2M" target="AASDHPPT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCB10P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCC6P2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCB9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABC13-47656900H15.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCC1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCB6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABC9-43961700F1.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCB10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AACS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AARS2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABC13-47488600E17.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AAED1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AADACP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AARSD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AATF">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AAGAB">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="A4GALT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AADAT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AAK1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCC11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCC12">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCA6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCC2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AAAS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCC5">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AAMP">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AARS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCC3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABC7-42404400C24.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCD4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCA7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCA11P">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AAR2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCC10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCC4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AADAC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCD3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AASDHPPT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABC13-48559800H2.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCB8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AB019441.29">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AASDH">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="AANAT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACTB" target="ABCB7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCB1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCC6P1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCB6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="AATK-AS1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="A4GALT">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCA1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="AACS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="AAMP">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCC9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="AAMDC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCA10">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCD2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCC6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="AARSD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="AAGAB">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="AADACL3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCD1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCB11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="AADAC">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCC11">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCA6">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="AAAS">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCB8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCC5">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="A2M">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="A2MP1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCA9">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCD4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCC6P2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCA11P">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCA8">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="AAR2">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCA4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCD3">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABC12-47964100C23.1">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="AADACL4">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="AASDH">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+<edge source="ACSL1" target="ABCB7">
+  <data key="d1">0.5</data>
+  <data key="d2">0</data>
+  <data key="d3">dashed</data>
+</edge>
+</graph></graphml>

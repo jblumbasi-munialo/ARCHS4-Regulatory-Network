@@ -1,0 +1,2987 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="methods" attr.type="string"/>
+<key id="d2" for="edge" attr.name="support_count" attr.type="long"/>
+<key id="d1" for="edge" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="ABC14-864958H18.2">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB7">
+  <data key="d0">Target</data>
+</node>
+<node id="AAK1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCD4">
+  <data key="d0">Target</data>
+</node>
+<node id="ABC12-47964100C23.1">
+  <data key="d0">Target</data>
+</node>
+<node id="AADAT">
+  <data key="d0">Target</data>
+</node>
+<node id="AADACL3">
+  <data key="d0">Target</data>
+</node>
+<node id="AB019441.29">
+  <data key="d0">Target</data>
+</node>
+<node id="A2M">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA7">
+  <data key="d0">Target</data>
+</node>
+<node id="AASS">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB8">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC13">
+  <data key="d0">Target</data>
+</node>
+<node id="AARS">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA8">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB4">
+  <data key="d0">Target</data>
+</node>
+<node id="AASDH">
+  <data key="d0">Target</data>
+</node>
+<node id="A4GALT">
+  <data key="d0">Target</data>
+</node>
+<node id="CD36">
+  <data key="d0">Regulator</data>
+</node>
+<node id="AGPAT2">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ABCB6">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC6P2">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB10P1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB11">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC11">
+  <data key="d0">Target</data>
+</node>
+<node id="A1BG">
+  <data key="d0">Target</data>
+</node>
+<node id="ADIRF">
+  <data key="d0">Regulator</data>
+</node>
+<node id="AAGAB">
+  <data key="d0">Target</data>
+</node>
+<node id="AADACL4">
+  <data key="d0">Target</data>
+</node>
+<node id="ANXA2">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ABCB10">
+  <data key="d0">Target</data>
+</node>
+<node id="AASDHPPT">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC5">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCD2">
+  <data key="d0">Target</data>
+</node>
+<node id="ABC13-48559800H2.1">
+  <data key="d0">Target</data>
+</node>
+<node id="ACTG1">
+  <data key="d0">Regulator</data>
+</node>
+<node id="AAED1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA6">
+  <data key="d0">Target</data>
+</node>
+<node id="ALDOA">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ABCD3">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCD1">
+  <data key="d0">Target</data>
+</node>
+<node id="AATK-AS1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABC13-47656900H15.1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCD1P5">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA5">
+  <data key="d0">Target</data>
+</node>
+<node id="AKR1C2">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ABCA2">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB9">
+  <data key="d0">Target</data>
+</node>
+<node id="ABC7-42404400C24.1">
+  <data key="d0">Target</data>
+</node>
+<node id="AARSD1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA10">
+  <data key="d0">Target</data>
+</node>
+<node id="AADACP1">
+  <data key="d0">Target</data>
+</node>
+<node id="AAR2">
+  <data key="d0">Target</data>
+</node>
+<node id="A3GALT2">
+  <data key="d0">Target</data>
+</node>
+<node id="AADAC">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA3">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA4">
+  <data key="d0">Target</data>
+</node>
+<node id="AHNAK">
+  <data key="d0">Regulator</data>
+</node>
+<node id="A2MP1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA11P">
+  <data key="d0">Target</data>
+</node>
+<node id="AAMP">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC3">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC10">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC2">
+  <data key="d0">Target</data>
+</node>
+<node id="AAAS">
+  <data key="d0">Target</data>
+</node>
+<node id="ADIPOQ">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ABCA9">
+  <data key="d0">Target</data>
+</node>
+<node id="AACS">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC4">
+  <data key="d0">Target</data>
+</node>
+<node id="B2M">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ABC9-43961700F1.1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC6">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC6P1">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC12">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCA17P">
+  <data key="d0">Target</data>
+</node>
+<node id="ABC13-48559800H2.2">
+  <data key="d0">Target</data>
+</node>
+<node id="AANAT">
+  <data key="d0">Target</data>
+</node>
+<node id="ABC13-47488600E17.1">
+  <data key="d0">Target</data>
+</node>
+<node id="AARS2">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC9">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCC1">
+  <data key="d0">Target</data>
+</node>
+<node id="AATF">
+  <data key="d0">Target</data>
+</node>
+<node id="ABCB1">
+  <data key="d0">Target</data>
+</node>
+<node id="AAMDC">
+  <data key="d0">Target</data>
+</node>
+<node id="ACTB">
+  <data key="d0">Regulator</data>
+</node>
+<node id="ACSL1">
+  <data key="d0">Regulator</data>
+</node>
+<edge source="CD36" target="AAR2">
+  <data key="d1">0.586289726420397</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="AADAC">
+  <data key="d1">0.7803808740015405</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCA4">
+  <data key="d1">0.42605161803940267</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCC11">
+  <data key="d1">0.40711797569828684</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABC12-47964100C23.1">
+  <data key="d1">0.972482040520614</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCB8">
+  <data key="d1">0.5092149416669823</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="A2M">
+  <data key="d1">0.9142772331395193</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="AASDH">
+  <data key="d1">0.4532572908722803</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCD4">
+  <data key="d1">0.5542633451226865</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCC6P2">
+  <data key="d1">0.586612337065913</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCB1">
+  <data key="d1">0.4781451290081109</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCA8">
+  <data key="d1">0.9345765784192079</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCA1">
+  <data key="d1">0.4861360931674503</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCD3">
+  <data key="d1">0.47177951472685803</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="AAMDC">
+  <data key="d1">0.8835976665921793</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="AADACL4">
+  <data key="d1">0.6308259898579034</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCA10">
+  <data key="d1">0.7803256071588544</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCC6">
+  <data key="d1">0.8906635926945782</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCB7">
+  <data key="d1">0.5311095382095048</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="AAGAB">
+  <data key="d1">0.4411814622263022</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCC6P1">
+  <data key="d1">0.7561173319755863</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="AADACL3">
+  <data key="d1">0.40387412850635523</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCB6">
+  <data key="d1">0.6557230291565995</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="AATK-AS1">
+  <data key="d1">0.9432486683122014</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="A4GALT">
+  <data key="d1">0.507608971782718</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCD1">
+  <data key="d1">0.4676186421454869</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCB11">
+  <data key="d1">0.42606698530618575</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="AACS">
+  <data key="d1">0.8062518245024428</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCA6">
+  <data key="d1">0.45220995985043944</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="AAAS">
+  <data key="d1">0.522295563989076</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCC5">
+  <data key="d1">0.4345016110457034</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="AAMP">
+  <data key="d1">0.6594083030732206</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCC9">
+  <data key="d1">0.7473129998664162</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCD2">
+  <data key="d1">0.7543438639408757</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="A2MP1">
+  <data key="d1">0.6668800076239173</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCA9">
+  <data key="d1">0.7695230120211408</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="AARSD1">
+  <data key="d1">0.6996065969900216</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="CD36" target="ABCA11P">
+  <data key="d1">0.477068511875748</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="AATF">
+  <data key="d1">0.4792237036949958</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="AAGAB">
+  <data key="d1">0.4932023771142313</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCC6P1">
+  <data key="d1">0.6486790507264942</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="AADACL3">
+  <data key="d1">0.34683046608722473</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCB6">
+  <data key="d1">0.7148317376102558</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="AATK-AS1">
+  <data key="d1">0.9440373700245492</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="A4GALT">
+  <data key="d1">0.5775648672333095</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCD1">
+  <data key="d1">0.5392417991495775</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCB11">
+  <data key="d1">0.40599466224331393</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="AACS">
+  <data key="d1">0.850665188163577</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCA6">
+  <data key="d1">0.3585766327566291</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="AAAS">
+  <data key="d1">0.59716832977706</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCC5">
+  <data key="d1">0.4188348219398949</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="AAMP">
+  <data key="d1">0.7496250140148065</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCC9">
+  <data key="d1">0.6463020823081559</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCD2">
+  <data key="d1">0.9666773497267123</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="A2MP1">
+  <data key="d1">0.6086515543600779</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCA9">
+  <data key="d1">0.6748078878656104</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="AARSD1">
+  <data key="d1">0.7671561310345067</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCA11P">
+  <data key="d1">0.513567449610084</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="AAR2">
+  <data key="d1">0.6565698052267651</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="AADAC">
+  <data key="d1">0.7799809765949871</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCA4">
+  <data key="d1">0.44413210549911547</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCC11">
+  <data key="d1">0.4182511988132029</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABC12-47964100C23.1">
+  <data key="d1">0.9718030202325484</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCB8">
+  <data key="d1">0.5592901765770635</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="A2M">
+  <data key="d1">0.9150360749247588</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="AASDH">
+  <data key="d1">0.46220587518840955</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCD4">
+  <data key="d1">0.5962063332847182</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCC6P2">
+  <data key="d1">0.6468725685164388</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCB1">
+  <data key="d1">0.41781368158354587</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCA8">
+  <data key="d1">0.9357973962954866</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCA1">
+  <data key="d1">0.4282785928082304</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCD3">
+  <data key="d1">0.4975181529411736</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="AAMDC">
+  <data key="d1">0.8984273274264923</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="AADACL4">
+  <data key="d1">0.6257266768828128</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCA10">
+  <data key="d1">0.737442403376181</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCC6">
+  <data key="d1">0.8786945721899334</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AGPAT2" target="ABCB7">
+  <data key="d1">0.5504505617892269</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="AARSD1">
+  <data key="d1">0.6150880309674964</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCA11P">
+  <data key="d1">0.3833858352233807</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="AADACL3">
+  <data key="d1">0.3473304540941512</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="AAR2">
+  <data key="d1">0.4746647526008158</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="AADAC">
+  <data key="d1">0.7482282710154685</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCA4">
+  <data key="d1">0.4559436118785194</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCC11">
+  <data key="d1">0.36562438495785576</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCB8">
+  <data key="d1">0.4363029605397739</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="A2M">
+  <data key="d1">0.7095439034670005</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="AASDH">
+  <data key="d1">0.3477972161595278</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="A2MP1">
+  <data key="d1">0.5959980684357973</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCD4">
+  <data key="d1">0.4455614296769495</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCC6P2">
+  <data key="d1">0.6896980516452942</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCB1">
+  <data key="d1">0.41215465159157305</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCA8">
+  <data key="d1">0.7601304915999858</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCA1">
+  <data key="d1">0.4117044306483278</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCD3">
+  <data key="d1">0.3814272481331535</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABC12-47964100C23.1">
+  <data key="d1">0.9985156495389249</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="AAMDC">
+  <data key="d1">0.7914006476563693</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="AADACL4">
+  <data key="d1">0.7804694972208148</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCA10">
+  <data key="d1">0.7061067478986051</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCC6">
+  <data key="d1">0.912368892711996</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCB7">
+  <data key="d1">0.3840942369652787</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="AAGAB">
+  <data key="d1">0.34164717968025027</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCC6P1">
+  <data key="d1">0.739304600373102</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCB6">
+  <data key="d1">0.6088662585490751</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="AATK-AS1">
+  <data key="d1">0.9793198216836057</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="A4GALT">
+  <data key="d1">0.53640955202522</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCD1">
+  <data key="d1">0.36799862506053677</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCB11">
+  <data key="d1">0.3515244785884216</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="AACS">
+  <data key="d1">0.7332094785644724</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCA6">
+  <data key="d1">0.40846769319316745</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="AAAS">
+  <data key="d1">0.4140887593021177</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="AAMP">
+  <data key="d1">0.5702150313544075</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCC9">
+  <data key="d1">0.6499756579770939</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCD2">
+  <data key="d1">0.7700101122773485</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIRF" target="ABCA9">
+  <data key="d1">0.6736267250341205</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="A2M">
+  <data key="d1">0.6272111298748945</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AASDH">
+  <data key="d1">0.5338704735005773</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCB7">
+  <data key="d1">0.6186399099279095</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCB10P1">
+  <data key="d1">0.5247148769078641</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCC6P2">
+  <data key="d1">0.6292023806989647</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCB9">
+  <data key="d1">0.5079088461092175</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCC1">
+  <data key="d1">0.6048282468750368</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCB6">
+  <data key="d1">0.8062695684402286</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AATK-AS1">
+  <data key="d1">0.6604051288845931</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCA2">
+  <data key="d1">0.3661204287467368</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCA1">
+  <data key="d1">0.43905189415797313</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCB10">
+  <data key="d1">0.5086963628805589</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABC14-864958H18.2">
+  <data key="d1">0.36897427755830675</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AARS2">
+  <data key="d1">0.5179291634310975</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABC13-47488600E17.1">
+  <data key="d1">0.4022545820236174</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCC9">
+  <data key="d1">0.6159520279808017</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AAED1">
+  <data key="d1">0.5252961336018312</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AAMDC">
+  <data key="d1">0.708945738847988</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AADACL4">
+  <data key="d1">0.4325873058856546</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCA10">
+  <data key="d1">0.5607871541841263</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCD2">
+  <data key="d1">0.661522272531085</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCC6">
+  <data key="d1">0.6742634493908194</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AANAT">
+  <data key="d1">0.38500852878906494</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AADACP1">
+  <data key="d1">0.6047012646435245</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AATF">
+  <data key="d1">0.6072637675956515</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AAGAB">
+  <data key="d1">0.6344247550570886</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCC6P1">
+  <data key="d1">0.5329736371668027</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AADACL3">
+  <data key="d1">0.3336873905042546</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="A4GALT">
+  <data key="d1">0.6819611306023492</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AADAT">
+  <data key="d1">0.5501865443189232</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCD1">
+  <data key="d1">0.5189956870758745</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCB11">
+  <data key="d1">0.36468727661404277</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AAK1">
+  <data key="d1">0.5024480332833309</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCC12">
+  <data key="d1">0.3816202346770914</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AACS">
+  <data key="d1">0.7461515551125718</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCA6">
+  <data key="d1">0.357606469538222</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCC2">
+  <data key="d1">0.5947533579510144</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AAAS">
+  <data key="d1">0.805755836255139</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCC5">
+  <data key="d1">0.4863582159310737</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AAMP">
+  <data key="d1">0.832173131774825</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AARS">
+  <data key="d1">0.6683145187751435</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="A2MP1">
+  <data key="d1">0.5073427046243854</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCC3">
+  <data key="d1">0.7046252520173365</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCA9">
+  <data key="d1">0.6552293600466205</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABC7-42404400C24.1">
+  <data key="d1">0.6640225798132471</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCD4">
+  <data key="d1">0.5933100945538329</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCA3">
+  <data key="d1">0.35377243103889106</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCA7">
+  <data key="d1">0.3977268202189297</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AARSD1">
+  <data key="d1">0.8163350489099349</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCA11P">
+  <data key="d1">0.4903735130612599</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCA8">
+  <data key="d1">0.679289326516305</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AAR2">
+  <data key="d1">0.7976731998074539</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCC10">
+  <data key="d1">0.5877831917117832</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AADAC">
+  <data key="d1">0.7246676396076864</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCA4">
+  <data key="d1">0.4631920375694584</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCC11">
+  <data key="d1">0.5383279262513633</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCD3">
+  <data key="d1">0.601570449861284</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABC12-47964100C23.1">
+  <data key="d1">0.6771139075710215</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="AASDHPPT">
+  <data key="d1">0.5086508339846927</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ANXA2" target="ABCB8">
+  <data key="d1">0.7676434071568745</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABC13-47488600E17.1">
+  <data key="d1">0.459147711173907</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABC13-48559800H2.2">
+  <data key="d1">0.3877024319050649</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AAED1">
+  <data key="d1">0.5149505719621291</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AADACP1">
+  <data key="d1">0.6327516611635655</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AARSD1">
+  <data key="d1">0.7355087830800402</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AATF">
+  <data key="d1">0.799865694656419</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AAGAB">
+  <data key="d1">0.719680160098695</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="A4GALT">
+  <data key="d1">0.6427433504930399</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AADAT">
+  <data key="d1">0.5826428642315481</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AAK1">
+  <data key="d1">0.47272289651050364</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCC11">
+  <data key="d1">0.5378121913062017</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCC12">
+  <data key="d1">0.4949202635265223</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCC2">
+  <data key="d1">0.6769673989785733</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AAAS">
+  <data key="d1">0.8785958832000041</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCC5">
+  <data key="d1">0.5434705086087535</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AAMP">
+  <data key="d1">0.7810108205529604</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AARS">
+  <data key="d1">0.7934789621659911</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCC3">
+  <data key="d1">0.7210561983840625</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABC7-42404400C24.1">
+  <data key="d1">0.5895250544563291</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCD4">
+  <data key="d1">0.5894161118750075</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCA3">
+  <data key="d1">0.3664270584839691</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCA7">
+  <data key="d1">0.5909171995775968</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCA11P">
+  <data key="d1">0.447942657890291</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AAR2">
+  <data key="d1">0.8079556922097436</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCC10">
+  <data key="d1">0.7287057804423945</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AADAC">
+  <data key="d1">0.35503822151930753</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCA4">
+  <data key="d1">0.3775220187035761</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCD3">
+  <data key="d1">0.5764951746106719</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AASDHPPT">
+  <data key="d1">0.6393086568143386</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABC13-48559800H2.1">
+  <data key="d1">0.5913429633334597</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCB8">
+  <data key="d1">0.8087164139027143</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AB019441.29">
+  <data key="d1">0.480445398413553</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AASDH">
+  <data key="d1">0.5574233080797518</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AANAT">
+  <data key="d1">0.4968382225007055</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCB7">
+  <data key="d1">0.6489990025179376</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCB10P1">
+  <data key="d1">0.6726279873843968</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCC6P2">
+  <data key="d1">0.3815116897909963</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCB9">
+  <data key="d1">0.6766820614331032</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABC13-47656900H15.1">
+  <data key="d1">0.4887302190707725</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCC1">
+  <data key="d1">0.788374701589985</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCB6">
+  <data key="d1">0.6717877478871236</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="ABCB10">
+  <data key="d1">0.6373937077489727</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AACS">
+  <data key="d1">0.5289905511537683</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTG1" target="AARS2">
+  <data key="d1">0.6752208833676118</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCB6">
+  <data key="d1">0.8575816458801319</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AATK-AS1">
+  <data key="d1">0.764239362659811</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="A4GALT">
+  <data key="d1">0.7097585052679465</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AADAT">
+  <data key="d1">0.5284669743339232</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCD1">
+  <data key="d1">0.5996645036362916</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCB11">
+  <data key="d1">0.4047037175728705</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AAK1">
+  <data key="d1">0.4660247082245967</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AACS">
+  <data key="d1">0.8417346814893621</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCA6">
+  <data key="d1">0.3501750032828195</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AAAS">
+  <data key="d1">0.8496104052367958</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCC5">
+  <data key="d1">0.5936383781002442</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AARS2">
+  <data key="d1">0.6214184314696799</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AAMP">
+  <data key="d1">0.9244473359890112</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCC9">
+  <data key="d1">0.6492464508588179</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AARS">
+  <data key="d1">0.7274786282657503</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCD2">
+  <data key="d1">0.7586478323896759</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="A2MP1">
+  <data key="d1">0.522926023985434</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCC3">
+  <data key="d1">0.48535969214911107</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCA9">
+  <data key="d1">0.5534403862981687</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABC7-42404400C24.1">
+  <data key="d1">0.45911390165168137</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCA3">
+  <data key="d1">0.46959953527026527</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCA7">
+  <data key="d1">0.5791527807986032</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AADACP1">
+  <data key="d1">0.427575732864066</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AARSD1">
+  <data key="d1">0.8993904134205825</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCA11P">
+  <data key="d1">0.5732793743408773</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AAR2">
+  <data key="d1">0.8873369791496682</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AADAC">
+  <data key="d1">0.6994268160968048</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCA4">
+  <data key="d1">0.4737913625521591</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCC11">
+  <data key="d1">0.5154439512487634</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABC12-47964100C23.1">
+  <data key="d1">0.7646567705088756</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABC13-48559800H2.1">
+  <data key="d1">0.47854987986899017</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCC2">
+  <data key="d1">0.44549233122253024</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCB8">
+  <data key="d1">0.7955113293873847</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AB019441.29">
+  <data key="d1">0.3721304687764122</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="A2M">
+  <data key="d1">0.7127891051625657</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AASDH">
+  <data key="d1">0.5764232207941025</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCB10P1">
+  <data key="d1">0.3283088847486808</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCD4">
+  <data key="d1">0.7055229643493406</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCC6P2">
+  <data key="d1">0.6210419653060902</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCB9">
+  <data key="d1">0.5128824197572119</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCB1">
+  <data key="d1">0.4966430568379447</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCC1">
+  <data key="d1">0.6363257728867243</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCA8">
+  <data key="d1">0.7296476640830798</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCA2">
+  <data key="d1">0.4211598537319641</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCC10">
+  <data key="d1">0.6258789293744299</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCA1">
+  <data key="d1">0.41338869645220305</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCB10">
+  <data key="d1">0.6522077659921203</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCD3">
+  <data key="d1">0.6624048413312337</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AASDHPPT">
+  <data key="d1">0.623670890331973</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AAED1">
+  <data key="d1">0.475862733554765</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AAMDC">
+  <data key="d1">0.771848910575701</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AADACL4">
+  <data key="d1">0.5100315527839393</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCA10">
+  <data key="d1">0.6311845559574146</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCC6">
+  <data key="d1">0.7255979799373443</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AANAT">
+  <data key="d1">0.4145707989494916</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCB7">
+  <data key="d1">0.7504103963174851</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AATF">
+  <data key="d1">0.7238606510674067</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="AAGAB">
+  <data key="d1">0.7382070215221567</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ALDOA" target="ABCC6P1">
+  <data key="d1">0.5414078072911572</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCC6">
+  <data key="d1">0.7205486463514262</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AANAT">
+  <data key="d1">0.33911490414447587</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCB7">
+  <data key="d1">0.4671770804738282</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AATF">
+  <data key="d1">0.3809676530897359</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AAGAB">
+  <data key="d1">0.44940076552531155</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCC6P1">
+  <data key="d1">0.5837277782243507</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCB6">
+  <data key="d1">0.7629173124836051</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AATK-AS1">
+  <data key="d1">0.8253232295784512</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="A4GALT">
+  <data key="d1">0.5571888350897171</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AADAT">
+  <data key="d1">0.44926016274098995</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCD1">
+  <data key="d1">0.40706742333860796</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCB11">
+  <data key="d1">0.3539480551202924</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AAK1">
+  <data key="d1">0.33984917179193247</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCC12">
+  <data key="d1">0.31705405280628907</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AACS">
+  <data key="d1">0.7020364876685651</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AAAS">
+  <data key="d1">0.6489403508087567</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCC5">
+  <data key="d1">0.4140426054888158</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AAMP">
+  <data key="d1">0.6807945621130366</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCC9">
+  <data key="d1">0.5849025292793045</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AARS">
+  <data key="d1">0.5028976096940593</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCD2">
+  <data key="d1">0.6540377657470157</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="A2MP1">
+  <data key="d1">0.5490847067726675</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCC3">
+  <data key="d1">0.6009695095796337</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCA9">
+  <data key="d1">0.5847928787206997</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABC7-42404400C24.1">
+  <data key="d1">0.5071547659192085</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCA3">
+  <data key="d1">0.3837030129781964</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AADACP1">
+  <data key="d1">0.47577887787959955</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AARSD1">
+  <data key="d1">0.7007176846540094</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCA11P">
+  <data key="d1">0.37907353663198284</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AAR2">
+  <data key="d1">0.6054159863718883</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AADAC">
+  <data key="d1">0.7735271678086573</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCA4">
+  <data key="d1">0.48321210516556173</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCC11">
+  <data key="d1">0.46690098033151367</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABC12-47964100C23.1">
+  <data key="d1">0.8438540228798423</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCC2">
+  <data key="d1">0.5479429968456909</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCB8">
+  <data key="d1">0.6146434271900515</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="A2M">
+  <data key="d1">0.6751869839748252</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AASDH">
+  <data key="d1">0.3505117980083161</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCB10P1">
+  <data key="d1">0.43909321735882056</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCD4">
+  <data key="d1">0.47013757824981584</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCC6P2">
+  <data key="d1">0.6113773365427467</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCB9">
+  <data key="d1">0.33473041567818035</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCB1">
+  <data key="d1">0.38478285284946834</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCC1">
+  <data key="d1">0.4365554442302409</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCA8">
+  <data key="d1">0.6657102803909863</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCA2">
+  <data key="d1">0.3849341787827691</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCC10">
+  <data key="d1">0.39464281285513797</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCA1">
+  <data key="d1">0.40649581185602096</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCB10">
+  <data key="d1">0.35652857262756976</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCD3">
+  <data key="d1">0.4095676131754779</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AASDHPPT">
+  <data key="d1">0.33020084836514707</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AAMDC">
+  <data key="d1">0.6905235041390786</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="AADACL4">
+  <data key="d1">0.5934229229096878</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="AKR1C2" target="ABCA10">
+  <data key="d1">0.6148403391070854</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCA8">
+  <data key="d1">0.4107365133447593</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCC10">
+  <data key="d1">0.6943887784661049</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCB10">
+  <data key="d1">0.4977761339892683</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCD3">
+  <data key="d1">0.5565413035413036</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="AASDHPPT">
+  <data key="d1">0.4470970244425477</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABC13-47488600E17.1">
+  <data key="d1">0.5934885910315972</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="AAED1">
+  <data key="d1">0.8870628674272124</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCA10">
+  <data key="d1">0.6214024587603625</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCA17P">
+  <data key="d1">0.43376058946895757</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCC6">
+  <data key="d1">0.4919267435864676</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCC13">
+  <data key="d1">0.43668447774069535</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCB7">
+  <data key="d1">0.5206785886718873</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCD1P5">
+  <data key="d1">0.42866362493096055</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCB9">
+  <data key="d1">0.5756355892872352</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="AAGAB">
+  <data key="d1">0.46000442165202776</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCB6">
+  <data key="d1">0.4958658205448953</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="A4GALT">
+  <data key="d1">0.6060745084388399</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCD1">
+  <data key="d1">0.5843038958546649</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="AAK1">
+  <data key="d1">0.6885521261986828</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCA1">
+  <data key="d1">0.6664540867052788</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="AACS">
+  <data key="d1">0.5606649652922641</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCA6">
+  <data key="d1">0.7492179257475774</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABC14-864958H18.2">
+  <data key="d1">0.6391236569322658</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="AARS2">
+  <data key="d1">0.48863455377461174</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="AAMP">
+  <data key="d1">0.45085304846048285</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCC9">
+  <data key="d1">0.5281054807539003</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="AASS">
+  <data key="d1">0.4536228638164728</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="A3GALT2">
+  <data key="d1">0.36172490147466907</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCA7">
+  <data key="d1">0.44155990726284794</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="A1BG">
+  <data key="d1">0.563642276785978</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCA11P">
+  <data key="d1">0.5680278862159817</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="AADACL3">
+  <data key="d1">0.45475175426722053</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="AAR2">
+  <data key="d1">0.5057618283340165</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCA4">
+  <data key="d1">0.4027883692422987</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCC11">
+  <data key="d1">0.6093428819913008</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCB8">
+  <data key="d1">0.4839135746657403</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCC5">
+  <data key="d1">0.5567137997729598</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="AASDH">
+  <data key="d1">0.679542744182509</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="A2MP1">
+  <data key="d1">0.3522715362940437</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCA9">
+  <data key="d1">0.5817097344176759</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCD4">
+  <data key="d1">0.5358437813288232</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCC6P2">
+  <data key="d1">0.5140324790632967</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCB4">
+  <data key="d1">0.5980093108712711</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="AHNAK" target="ABCA5">
+  <data key="d1">0.6221838063539754</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="AAR2">
+  <data key="d1">0.55451242673226</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="AADAC">
+  <data key="d1">0.7424009632331602</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA4">
+  <data key="d1">0.47706491099046333</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCC11">
+  <data key="d1">0.41073953438702615</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABC12-47964100C23.1">
+  <data key="d1">0.9715295951113316</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCB8">
+  <data key="d1">0.4715650353005627</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="A2M">
+  <data key="d1">0.9165177649983736</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="AASDH">
+  <data key="d1">0.42412152897107464</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="A2MP1">
+  <data key="d1">0.599167265692464</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCD4">
+  <data key="d1">0.533010752609073</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCC6P2">
+  <data key="d1">0.7207273006187078</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCB1">
+  <data key="d1">0.4536787212462847</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA8">
+  <data key="d1">0.9360121525424406</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA1">
+  <data key="d1">0.38274169439690015</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCD3">
+  <data key="d1">0.45278128015720326</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="AAMDC">
+  <data key="d1">0.879721849087344</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="AADACL4">
+  <data key="d1">0.6245938141025471</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA10">
+  <data key="d1">0.7735479185639121</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCC6">
+  <data key="d1">0.8681640603968391</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCB7">
+  <data key="d1">0.495720521000324</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="AAGAB">
+  <data key="d1">0.4098916780993493</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCC6P1">
+  <data key="d1">0.7578866728500626</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="AADACL3">
+  <data key="d1">0.41537977816261545</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCB6">
+  <data key="d1">0.6177907317736553</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="AATK-AS1">
+  <data key="d1">0.9423882651392564</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="A4GALT">
+  <data key="d1">0.4805350127388856</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCD1">
+  <data key="d1">0.4392482513214579</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCB11">
+  <data key="d1">0.4179706986930408</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="AACS">
+  <data key="d1">0.8033209590036252</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA6">
+  <data key="d1">0.44486865704956585</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="AAAS">
+  <data key="d1">0.49949590924176546</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="AAMP">
+  <data key="d1">0.6196181146233447</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCC9">
+  <data key="d1">0.7242421597626848</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCD2">
+  <data key="d1">0.9674119090502227</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA9">
+  <data key="d1">0.7792732364857163</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="AARSD1">
+  <data key="d1">0.6828941798444829</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ADIPOQ" target="ABCA11P">
+  <data key="d1">0.46487409033573357</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCB8">
+  <data key="d1">0.549347844318466</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AASDH">
+  <data key="d1">0.600771987709345</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCB7">
+  <data key="d1">0.6910845704093832</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCC6P2">
+  <data key="d1">0.49454447348445624</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCB1">
+  <data key="d1">0.5013365699645388</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCB6">
+  <data key="d1">0.615178610798409</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AATK-AS1">
+  <data key="d1">0.733850412099366</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABC9-43961700F1.1">
+  <data key="d1">0.3705270184137458</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCA1">
+  <data key="d1">0.4764476133543963</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCB10">
+  <data key="d1">0.5891849932293386</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AARS2">
+  <data key="d1">0.45108882121773947</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCC9">
+  <data key="d1">0.5784981288303405</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AAED1">
+  <data key="d1">0.5252135211813779</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AAMDC">
+  <data key="d1">0.7658742798792669</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AADACL4">
+  <data key="d1">0.5954795609890073</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCA10">
+  <data key="d1">0.6172486223383463</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCD2">
+  <data key="d1">0.5990467909079956</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCC6">
+  <data key="d1">0.6800521828525463</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AARSD1">
+  <data key="d1">0.7168005624122085</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AATF">
+  <data key="d1">0.6279671906383655</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AAGAB">
+  <data key="d1">0.6763601145060324</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCC6P1">
+  <data key="d1">0.45558568244788383</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AADACL3">
+  <data key="d1">0.3529593813432281</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="A4GALT">
+  <data key="d1">0.6506166197497388</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCD1">
+  <data key="d1">0.5266213966252054</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCB11">
+  <data key="d1">0.3738601422173729</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AAK1">
+  <data key="d1">0.4543527760929403</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCC11">
+  <data key="d1">0.44222560192624377</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AACS">
+  <data key="d1">0.774335146389129</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCA6">
+  <data key="d1">0.47010263182743506</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AAAS">
+  <data key="d1">0.5908159538415635</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCC5">
+  <data key="d1">0.45907183983928235</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AAMP">
+  <data key="d1">0.7054623049715442</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AARS">
+  <data key="d1">0.5476722293096038</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="A2M">
+  <data key="d1">0.656606469854735</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="A2MP1">
+  <data key="d1">0.506478026936558</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCA9">
+  <data key="d1">0.5732549418877553</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCD4">
+  <data key="d1">0.5913944697368781</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCA7">
+  <data key="d1">0.4825443278254708</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCA5">
+  <data key="d1">0.4890847874005652</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCA11P">
+  <data key="d1">0.5265456806502916</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCA8">
+  <data key="d1">0.6668879408950962</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AAR2">
+  <data key="d1">0.7087401421857834</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCC10">
+  <data key="d1">0.5080864424445326</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AADAC">
+  <data key="d1">0.6495736634445816</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCA4">
+  <data key="d1">0.33721951063875516</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABCD3">
+  <data key="d1">0.591135959895457</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="ABC12-47964100C23.1">
+  <data key="d1">0.7433874026871848</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="B2M" target="AASDHPPT">
+  <data key="d1">0.5803972385523083</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCB10P1">
+  <data key="d1">0.5318931812793732</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCC6P2">
+  <data key="d1">0.3424775161670295</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCB9">
+  <data key="d1">0.5713849358509483</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABC13-47656900H15.1">
+  <data key="d1">0.39256087181545113</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCC1">
+  <data key="d1">0.7468946088275521</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCB6">
+  <data key="d1">0.6683974142557947</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABC9-43961700F1.1">
+  <data key="d1">0.5379737092844921</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCB10">
+  <data key="d1">0.7224701705783302</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AACS">
+  <data key="d1">0.5842780756487453</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AARS2">
+  <data key="d1">0.6642470451200674</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABC13-47488600E17.1">
+  <data key="d1">0.4360266584552004</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AAED1">
+  <data key="d1">0.50044027136398</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AADACP1">
+  <data key="d1">0.48715462292823886</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AARSD1">
+  <data key="d1">0.7329514943304459</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AATF">
+  <data key="d1">0.8029779024383106</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AAGAB">
+  <data key="d1">0.7517830086205611</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="A4GALT">
+  <data key="d1">0.7062935625931649</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AADAT">
+  <data key="d1">0.46234364569614256</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCD1">
+  <data key="d1">0.4558875614680693</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AAK1">
+  <data key="d1">0.46908356643671434</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCC11">
+  <data key="d1">0.5038656373455853</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCC12">
+  <data key="d1">0.3253433841233936</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCA6">
+  <data key="d1">0.3495568369251532</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCC2">
+  <data key="d1">0.5275442971539394</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AAAS">
+  <data key="d1">0.826980784971829</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCC5">
+  <data key="d1">0.5190376446189499</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AAMP">
+  <data key="d1">0.7661916072353573</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AARS">
+  <data key="d1">0.7932120914203918</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCC3">
+  <data key="d1">0.5861765623427013</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABC7-42404400C24.1">
+  <data key="d1">0.47779699847754875</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCD4">
+  <data key="d1">0.5840573549149819</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCA7">
+  <data key="d1">0.5408790472682588</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCA11P">
+  <data key="d1">0.43529087916004966</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AAR2">
+  <data key="d1">0.832589139362795</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCC10">
+  <data key="d1">0.6859985529041955</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCC4">
+  <data key="d1">0.4861380122569561</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AADAC">
+  <data key="d1">0.3416228176990985</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCD3">
+  <data key="d1">0.6142623823470099</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AASDHPPT">
+  <data key="d1">0.7020161180043761</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABC13-48559800H2.1">
+  <data key="d1">0.5733419104385434</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCB8">
+  <data key="d1">0.7448883600143349</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AB019441.29">
+  <data key="d1">0.44824920796109985</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AASDH">
+  <data key="d1">0.5782537783285346</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="AANAT">
+  <data key="d1">0.4350102607484454</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACTB" target="ABCB7">
+  <data key="d1">0.7088868546364834</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCB1">
+  <data key="d1">0.4889134339583032</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCC6P1">
+  <data key="d1">0.7547297923651043</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCB6">
+  <data key="d1">0.6787603292919598</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="AATK-AS1">
+  <data key="d1">0.9339804615900088</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="A4GALT">
+  <data key="d1">0.5396288719970621</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCA1">
+  <data key="d1">0.4651049659286401</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="AACS">
+  <data key="d1">0.8355490064849199</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="AAMP">
+  <data key="d1">0.7054518807373511</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCC9">
+  <data key="d1">0.7486018337863469</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="AAMDC">
+  <data key="d1">0.8801097098978158</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCA10">
+  <data key="d1">0.8247606763177068</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCD2">
+  <data key="d1">0.7895587683057416</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCC6">
+  <data key="d1">0.8595402999350269</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="AARSD1">
+  <data key="d1">0.7398097944331258</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="AAGAB">
+  <data key="d1">0.48740845664295646</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="AADACL3">
+  <data key="d1">0.3768713826700001</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCD1">
+  <data key="d1">0.4860110371079867</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCB11">
+  <data key="d1">0.41677382411740765</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="AADAC">
+  <data key="d1">0.7742020600602394</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCC11">
+  <data key="d1">0.4561313148106419</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCA6">
+  <data key="d1">0.46241165918741794</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="AAAS">
+  <data key="d1">0.5569810229616369</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCB8">
+  <data key="d1">0.5195387878035168</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCC5">
+  <data key="d1">0.4639546901092763</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="A2M">
+  <data key="d1">0.9143621684692744</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="A2MP1">
+  <data key="d1">0.6659144449526505</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCA9">
+  <data key="d1">0.7724122537748818</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCD4">
+  <data key="d1">0.5806283180952138</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCC6P2">
+  <data key="d1">0.722323417186897</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCA11P">
+  <data key="d1">0.5210766112899247</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCA8">
+  <data key="d1">0.9372190906134492</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="AAR2">
+  <data key="d1">0.6196704170150386</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCA4">
+  <data key="d1">0.4435046417743403</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCD3">
+  <data key="d1">0.5186693996283788</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABC12-47964100C23.1">
+  <data key="d1">0.9631573621717386</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="AADACL4">
+  <data key="d1">0.6039672883519528</data>
+  <data key="d2">2</data>
+  <data key="d3">Pearson,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="AASDH">
+  <data key="d1">0.5000918880455419</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+<edge source="ACSL1" target="ABCB7">
+  <data key="d1">0.5611998309793843</data>
+  <data key="d2">3</data>
+  <data key="d3">Pearson,Spearman,GRNBoost2</data>
+</edge>
+</graph></graphml>
